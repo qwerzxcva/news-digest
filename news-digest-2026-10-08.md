@@ -655,3 +655,80 @@
 > - https://pharmaphorum.com/news/lilly-forges-335bn-alliance-chinas-innocare + https://investor.lilly.com/events/event-details/q3-2026-earnings-call （InnoCare $3.35B / Q3 财报 10/29）
 > - https://tradingnews.com/news/lly-reclaims-1200-usd-as-munjaro-and-zepbound-deliver-14b-usd-quarter （LLY 10/7 +4.10% $1,205.00）
 > - https://tradingnews.com/news/dow-sheds-539-points-sp-500-back-under-7800-nasdsaq-off-075-percent （10/7 早段：10Y 5.35% 2002 高位 / 30Y 5.724% 24 年新高 / STZ -5% 但 beat / PENG +17%）
+
+## 第 7 轮更新（10/8 04:45 北京时间 · 行情再核验 + 霍尔木兹今日袭击升级 + 黑海泽连斯基新警告）
+
+### 8.36 行情核验快照（04:42 · 腾讯 + 新浪 API）
+
+**美股收盘（10/7 16:00 ET 最终，与第 6 轮一致；无新收盘数据）**：INX 7,801.77 / IXIC 27,538.69 / DJI 51,179.87 / MU $1,088.00 +4.06% / META $721.31 -2.38%（详情见 8.28）。
+
+**大宗商品（新浪 hq.sinajs.cn，04:42 CST — 与 04:07 相比关键变化：金价已收复 4,130）**：
+| 品种 | 最新 | 前结 | 日内区间 | 变动 |
+|------|------|------|---------|------|
+| WTI CL | **$88.914** | $89.440 | 87.960–90.980 | -0.59%（小幅回升） |
+| Brent OIL | **$100.918** | $100.580 | 99.610–102.590 | **+0.33%（持续站稳 100 上方）** |
+| COMEX 黄金 GC | **$4,130.512** | $4,187.100 | 4,091.2–4,197.8 | **+0.01%（关键！已从 4,126.75 回升至 4,130 上方）** |
+| COMEX 白银 SI | **$59.949** | $61.589 | 59.230–61.845 | **-2.69%（仍在 60 下方，两月低位区）** |
+
+> 黄金（GC）从 Round 5/6 的 4,126.75 回升至 4,130.51，**收复 4,130 关键支撑位**——意味着明日（10/9 01:00 北京时间）$39B 10Y 国债拍卖将成为新的"破位 vs 修复"裁决点。SI 59.949 仍在 60 关口下方。
+
+**BTC（Gate.io 现货，04:42 CST）**：**$83,367.8（-2.66% 24h）**，24h 区间 $82,765.9–$85,665.2。OKX / Bybit / Binance 均不可达（本机网络 101）——**单源，中置信**。
+
+**A 股 / 港股**：仍为 9/30（A 股）与 10/7（港股）前收盘（上证 3,842.19 / 深成 12,887.62 / 创业板 3,135.28 / 科创 50 1,530.01；HSI 24,130.50 / HSTECH 4,194.49）。**10/8 09:30 A 股节后首日重开（距 4h48m）**。
+
+### 8.37 【新增】霍尔木兹 今日再袭（10/8 星期四 + 10/7 卡塔尔以北多弹命中伤亡）
+
+- **今日（10/8 Thursday）**：UKMTO 公告 + Arab News（10/8）——一艘油轮在霍尔木兹海峡内航行时遭"**不明弹体**"命中，引发火灾；船员安全、损害未明。Flag / 船旗未公开。此为**本轮 UKMTO 周度（9/29–10/5，12 艘）之外的第 13+ 艘**；10/5 当周已发生 5 起（含 IRGC 驱离 1 艘 + 无人机掉入烟囱）。
+- **周三 10/7 19:00 UTC**：Qatar 以北 Madinat ash Shamal 51nm 处，油轮被**多枚弹体**命中，**已报告伤亡**（uk.news-pravda / Reuters Maritime）。UKMTO 标记"most intense week of attacks since war began on 2/28"。
+- 美方口径（Rubio 雅典 10/7）"open/失去控制" vs 市场结构：Brent $100.92 + 战险保费（3–10%）+ 每日袭击 1+ 艘油轮 + Qatar 以北海域伤亡。**Day 221**（2/28 起算；strait.live 口径 10/1=214 → 10/8=221）。
+- 伊朗议会 speaker Ghalibaf（9/27 X）回击美方"Gaslighting Bureau"：*"Either the market's dumb or the US narrative-laundromat is faking it"*（油价较战前溢价 $35–50）。
+
+### 8.38 【新增】黑海保加利亚：泽连斯基警告"大规模袭击"即将开始
+
+- **Fox News（10/7–10/8）**：泽连斯基在保加利亚事件后警告**莫斯科正准备更大规模的"大规模袭击"（large-scale strike）**针对乌克兰——暗示黑海无人机攻击为预演 / 前置。乌克兰总统府声明：已与保方核实，确认为俄军海空无人机联合打击。
+- **Dranganfly 专家 Cameron Chell（Fox News）**：Alfa Watan 系**联合打击**——Geran-4 空中无人机（陡角俯冲）+ Maran 水面无人艇（表面贴浪），两者组合实现快速致沉。纯空中无人机无法造成此类结构性毁灭。
+- **事实核查窗口持续**：Able 燃烧预计下沉（Euronews 10/7）、Alfa Watan 10 人失踪（Turkish Minute / Maritime.bg 10/7 搜救终止）。
+
+### 8.39 【新增】Isaias NHC Discussion #4（10/7 10:00 CDT）+ 登陆窗口东移
+
+- **NHC Discussion #4（10:00 CDT Wed 10/7）**：系统**东移偏转**，路径由"SE LA ↔ FL Panhandle"收窄至 **Gulf Shores AL ↔ Pensacola FL** 一线；风场显著扩大且不对称（东侧更强）；**峰值维持 110 mph（Cat 2）**，登陆前仍可能减弱（基准情景同 Round 6）；AL / FL Panhandle 飓风 + 风暴潮 + 热带风暴警戒均已生效；佛州 25 县紧急状态（DeSantis 已签行政令）。
+- BSEE Gulf 停产维持（原油 9.24% + 6 炼厂 + 50% 全国炼能）；WTI 88.914 回升即预定价。
+- EP Hurricane Rachel + TD 20 Marine 在 NHC 主页并存（分散风险）。
+
+### 8.40 A 股节后首日盘面预期补充（04:42 CST 盘前 briefing）
+
+- **假期映射：光通信 / PCB / 存储**（同花顺 jrj 10/6）——美股 Coherent +11%、Ciena/Lumentum +7%；SK 海力士 +5%、美光 +3%；港股 PCB 主线建滔 +12%、京信通信 +25%。逻辑从"全面 Beta"转向"瓶颈资产 Alpha"（光通信、PCB 上游材料、存储芯片、电网配套）。
+- 10/8 09:30 开盘锚：MU $1,088 +4.06% 存储链 / 雅克科技 + 华特气体映射；港股通恢复 + AH 溢价 125.79；PMI 50.1 + 1.2 万亿净投放。
+- 券商板块节前异动（中信证券研报类比 2014-11 / 2022-11 预期逆转 + 散户巨量资金集中入场双特征）。
+
+### 8.41 本轮分析与展望
+
+1. **黄金收复 4,130（4,130.51）**——较上轮 4,126.75 反弹约 4 美元，**4,130 从"已破位"恢复为"关键支撑争夺点"**；白银 59.949 仍在 60 之下，两月低位区。明日 01:00（北京时间）$39B 10Y 拍卖为方向裁决：强 bid 压低收益率 → GC 有望再测 4,150 / SI 测试 60 关口；弱 bid → GC 再度失守 4,130、SI 下看 59.23。Kitco 关键支撑 4,118 / 59.23 仍需警惕。
+2. **霍尔木兹 Day 221 + 袭击节奏加速**：本周（9/29–10/5）12 艘（UKMTO）+ 今日（10/8）1 艘 + 周三 10/7 卡塔尔以北 51nm 多弹命中伤亡 → 袭击频率与严重性双重升级。美方 Rubin "open/失去控制"叙事 vs 实际袭击日度化；Brent 站稳 100.92 + 战险保费 3–10% = **"流量修复 + 风险加速"双驱动** 格局不变，卡塔尔 LNG 不可抗力至 12 月到期是第二条腿。
+3. **黑海 / 保加利亚叙事扩散**：泽连斯基警告"大规模袭击"在即 + Dranganfly 联合打击技术解析（Geran-4 + Maran 组合致沉）= 保加利亚专属经济区事件正被纳入**俄乌战争向 NATO 海域外溢评估框架**。Article 4 磋商门槛仍然未触发（Radev 10/7 明确表态），但 Article 5 讨论升温（保总统 Iotova 声明"充分理由"）。
+4. **Isaias 登陆窗口收窄 + 路径东移**：Discussion #4 确认 Gulf Shores AL ↔ Pensacola FL 为首选登陆区间；110 mph Cat 2 峰值仍成立，但"登陆前减弱"情景仍在基准内。AL/FL Panhandle 风暴潮 6–10 ft（StormMax 15 ft）+ 3–6 in 降雨（局部 10 in）+ 潜在 tornadoes 仍为主要风险。
+5. **A 股节后首日 09:30**：关注 MU 映射链强度 + AH 溢价收敛程度 + 量能 1.5 万亿验证。LLY-InnoCare $3.35B 合作为医药板块侧翼变量（LLY 10/7 +4.10% $1,205）。
+6. **10Y 拍卖（10/9 01:00 北京时间）**仍是今夜至明日凌晨的核心事件，对金银 + 长端利率（10Y ~5.35%、30Y 5.724%）方向均有裁决作用；若拍卖强劲将压低收益率，利好金银修复 60/4,130 窗口。
+
+### 8.42 本轮 Watchlist
+
+- **今日 09:30（北京时间）**：A 股节后首日——MU 存储链映射 + 科创板修复 + 半导体 AH 收敛 + 量能 1.5 万亿验证 + 券商板块情绪 + LLY-InnoCare 合作对医药侧翼。
+- **今日 19:00（北京时间）**：诺贝尔文学奖揭晓——**官网核验后再写入**（Anne Carson / 残雪并列 10/1；往年旧稿勿采信）。
+- **明日 01:00（10/9 01:00 北京时间 / 10/8 13:00 ET）**：$39B 10Y 国债拍卖——金银 59.23/4,118 方向裁决点。
+- **10/9（周五）**：Isaias 基准情景登陆窗口（Cat 2 峰值，Mobile–Destin，存在减弱可能）+ JPM 盘后财报（Q3 银行股开局）+ 诺贝尔和平奖 17:00（Machado 领跑赔率）。
+- **10/29**：Lilly Q3 财报（10:00 ET）。
+- **持续追踪**：UKMTO 日度袭击节奏（10/7 卡塔尔以北伤亡 + 10/8 霍尔木兹内起火）、Rubio "海峡开放"后续表态、Able 是否坐沉（10/8–10/9 核查窗口）、GC 4,130 / SI 60 / Kitco 4,118 / 59.23 支撑、BTC 多源恢复（现 Gate.io 单源 $83,367.8）。
+
+---
+> 【本轮信息源】
+> - 腾讯 qt.gtimg.cn（04:42 CST 抓取；美股收盘沿用 10/7 16:00 ET 定盘）
+> - 新浪 hq.sinajs.cn（大宗商品 04:42 CST 抓取，Referer finance.sina.com.cn）
+> - https://api.gateio.ws/ （BTC Gate.io 现货 $83,367.8，04:42 CST；OKX/Bybit/Binance 仍不可达）
+> - https://www.arabnews.com/middle-east/tanker-attacked-in-strait-of-hormuz-uk-maritime-agency-3004164 （10/8 Thursday UKMTO：海峡内油轮遭不明弹体袭击起火）
+> - https://uk.news-pravda.com/uk/2026/10/07/174077.html （10/7 Wed 19:00 UTC Qatar 以北 51nm 多弹命中 + 伤亡；"最激烈一周"）
+> - https://marineinsight.com/four-tankers-attacked-another-vessel-threatened-by-irans-irgc-in-strait-of-hormuz （10/5周一 5 起 incident + IRGC 驱离）
+> - https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike （泽连斯基"大规模袭击"警告 + Cameron Chell 联合打击解析）
+> - https://www.nhc.noaa.gov/mobile/text/refresh/MIATCDAT4+html/070857.shtml （Discussion #4, 10:00 CDT 10/7；东移偏转 Gulf Shores–Pensacola 窗口）
+> - https://weather.com/2026/10/07/storms/hurricane/state-of-emergency-in-florida-as-isaias-forecast-to-become-gulf-hurricane + https://www.pnj.com/story/weather/hurricanes/2026/10/07/ （FL 25 县紧急状态 / 飓风 + 风暴潮警戒生效）
+> - https://stock.jrj.com.cn/2026/10/06170858625350.shtml （A 股节后首日盘前 Mapping：光通信/PCB/存储主线分化逻辑）
+
