@@ -301,3 +301,97 @@
 > - https://straits.live （霍尔木兹海峡实时状态）
 > - https://www.accuweather.com/en/hurricane/tropical-storm-isaias-forms-in-gulf-to-become-atlantics-first-hurricane-before-striking-us/1942566 （Isaias 路径）
 > - https://english.nv.ua/nation/bulgaria-ends-search-for-crew-of-drone-struck-alfa-watan-50647999.html （搜救终止 + 四条磋商口径）
+
+---
+
+## 第 3 轮更新（10/8 02:20 北京时间 · 行情再核验 + 诺奖文学奖重大纠错 + FOMC 反应 + 黑海/飓风口径更新）
+
+> ⚠️ **本轮核心：第 2 轮"诺奖文学奖 2026 = Krasznahorkai"为误报，正式撤回。**
+
+### 8.12 行情核验快照（02:20 · 腾讯 + 新浪 API，美股 10/7 14:20 ET 盘中）
+
+**美股（腾讯 qt.gtimg.cn，02:20 CST 抓取）**：
+| 标的 | 最新 | 涨跌（vs 前收） |
+|------|------|------|
+| INX（标普 500） | 7,802.48 | -0.21%（距 10/6 纪录 7,818.93 仅 16.45pt） |
+| IXIC（纳指） | 27,511.97 | -0.32% |
+| **MU 美光** | **$1,086.36** | **+3.90%**（连续第二日大涨，HBM 叙事主引擎） |
+| AAPL | $336.94 | +0.99% |
+| AMZN | $258.86 | +1.00% |
+| MSFT | $530.98 | +0.32% |
+| GOOGL | $347.86 | +0.05% |
+| AMD | $645.90 | -0.54% |
+| JPM | $329.12 | -0.65% |
+| NVDA | $236.84 | -1.00% |
+| TSLA | $376.20 | -1.18% |
+| ASML | $1,802.69 | -1.71% |
+| TSM | $473.26 | -1.87% |
+| META | $724.48 | -1.95% |
+
+> 盘面解读：FOMC 纪要 02:00（北京时间）公布后，美股 14:00–14:20 ET 段**反应平淡**——INX 仅 -0.21%、IXIC -0.32%，未出现剧烈方向冲击，与第 2 轮"鸽派落地、中性"判断一致。设备/存储权重（ASML -1.71%、TSM -1.87%、META -1.95%）续弱，MU 逆势 +3.90% 独强。
+
+**大宗商品（新浪 hq.sinajs.cn，02:20 CST）**：
+| 品种 | 最新 | 前结 | 变动 |
+|------|------|------|------|
+| WTI CL | **$88.242** | $89.44 | -1.34% |
+| Brent OIL | **$100.091** | $100.58 | -0.49%（**收复 100 关口**，较第 2 轮 99.910 回升） |
+| COMEX 黄金 GC | **$4,133.48** | $4,187.10 | -1.28%（守 4,130） |
+| COMEX 白银 SI | **$60.072** | $61.589 | -2.46%（仍守 60 上方） |
+
+> Brent 由第 2 轮 99.91（破百）回升至 100.09（守百），金银维持 4,130/60 双支撑，方向仍待 10Y 拍卖（明日 01:00 北京时间）与 FOMC 二次消化确认。
+
+**A 股 / 港股**：9/30（A 股）与 10/7（港股）前收盘数据不变——上证 3,842.19 / 深成 12,887.62 / 创业板 3,135.28 / 科创 50 1,530.01；HSI 24,130.50（-0.62%）、HSTECH 4,194.49（-0.68%）。**10/8 09:30 A 股节后首日重开**（央行 1.2 万亿买断式逆回购今日操作，多源核验属实：nbd / ce.cn / 新浪财经）。
+
+**BTC**：OKX / Kraken / CoinGecko 三源本主机**全部不可达**（network 101），本轮**未能重新交叉核验**；沿用第 2 轮 ~$83,346–83,735（Bybit/CoinGecko 口径），**低置信**，待 API 恢复后补验。
+
+### 8.13 【重大纠错】诺贝尔文学奖 2026 尚未揭晓 + 第 2 轮"Krasznahorkai"撤回
+
+- **官方状态（NobelPrize.org 官网核验）**：文学奖列表页明确显示 "**The Nobel Prize in Literature 2026 has not been awarded yet. It will be announced on Thursday, 8 October 2026, 13:00 CEST at the earliest**"（= 北京时间今日 **19:00**）；`/prizes/literature/2026/` 直连返回 **Not found**（获奖者页尚未建立）。
+- **第 2 轮撤回**：第 2 轮据 Christian Index / AP 报道"2026 文学奖 = László Krasznahorkai（匈牙利，授奖词'apocalyptic terror…art'、Mats Malm 宣读）**——经官网核验，该文实为 **2025 年度**获奖报道误配（NobelPrize.org 列表页 2025 项即 Krasznahorkai；其 2026 获奖页不存在）。**该条判定作废，2026 结果以今日 19:00 官网公布为准，勿提前写入。**
+- **本轮赛前赔率（Ladbrokes，2026/9/2 OLBG 口径）**：中国作家**残雪 Can Xue 10/1 居首**（隐含 ~9.1%）、村上春树 Murakami 14/1 次之；其后 Rivera Garza / Vila-Matas / Murnane / Cărtărescu / Pynchon 并列 16/1。
+- **播报人变更**：2026 年文学奖由**新任常任秘书 Ingrid Carlberg**（2026/6/1 接替 Mats Malm 就任）首次宣读——非第 2 轮误引的 Malm。
+- **背景**：本届为诺奖 125 周年，奖金上调 9% 至 1,200 万瑞典克朗（约 $1.21M）。
+
+### 8.14 FOMC 9 月会议纪要（02:00 已公布）市场反应
+
+- **纪要定性**：9/15–16 会议为"偏鹰派时点"——12-0 加息 25bp 至 3.75–4.00%（2023 年 7 月以来首次加息、Warsh 主席任内首次），点阵图 16/18 位官员预期年内至少再加息、年末中值 4.10%。
+- **但纪要已被数据"超越"**：纪要成文时桌上非农为 8 月 **16.2 万**；10/2 下修后 8 月=13.3 万、7 月转负 -1.0 万、9 月仅 **+2.9 万**（失业率 4.2%）。
+- **市场定价**：10 月加息概率由 ~70% **骤降至低双位数（~13–14%，CME FedWatch 10/2 口径）**；**12 月加息概率仍 ~66–67%**。纪要对 10 月无增量信息（市场读"12 月"而非"10 月"）。
+- **盘面印证**：INX -0.21% / 10Y 美债 ~5.32%，反应**中性偏稳**，未出现鹰派二次冲击。
+
+### 8.15 飓风 Isaias 最新（NHC 10/7 10:00 CDT 通报口径）
+
+- **当前状态 = 热带风暴（非 Cat 2）**：中心位于北纬 22.4°/西经 93.6°，以 ~8 mph 向东北移动；预测**周四（10/8）快速增强、周五（10/9）峰值 110 mph（Cat 2）** 登陆美国北部墨西哥湾岸（Mobile, AL–Destin, FL 一线）。第 2 轮"已升级 Cat 2"系**提前表述，本轮修正为"现热带风暴、周五峰值 Cat 2"**。
+- **历史性**：若如期登陆，为 **2026 大西洋季首个飓风、也是 100 余年来最晚形成的首个飓风**（AccuWeather/NHC）。
+- **警戒**：美国北部墨西哥湾岸已发布飓风 + 风暴潮警戒（WAFB/FoxWeather）；佛州 DeSantis 对 25 县紧急状态。
+- **能源端**：BSEE 口径 Gulf 原油停产 9.24% + 6 座炼厂 + 50% 全国炼能受影响，周五若 Cat 2 登陆将加剧 WTI 供给扰动。
+
+### 8.16 黑海保加利亚事件（NATO 第四条/第五条口径澄清）
+
+- **官方结论（保总理 Rumen Radev，RBC/AP 10/6–10/7）**：**目前无援引北约第四条或第五条的理由**——事件发生在保加利亚专属经济区（EEZ，约 70–80 海里外），属"特殊法律地位"水域（既非领海主权、亦非公海），故不触发第五条集体防御门槛。
+- **遇袭双船**：**ALFA WATAN**（托戈旗，沉没，船员下落未明、搜救已终止、无船员痕迹）；**ABLE**（帕劳旗，起火，**18 名船员全部获救、2 人重伤**送 Varna 医院）。
+- **归咎**：泽连斯基称"俄军海空无人机联合打击"；保方称无人机来源未明（"或俄或乌"）；俄方此前称"已救援船员"——叙事冲突未解。
+- **政治**：保国内"Democratic Bulgaria"等政党曾呼吁启动第四条磋商，但**政府口径（总理）为不启动**；欧盟称"不可接受的攻击"。
+
+### 8.17 本轮 Watchlist
+
+- **今日 09:30（北京时间）**：A 股节后首日开盘——央行 1.2 万亿买断式逆回购落地 + 北向行为 + 半导体 AH 联动（澜起 H 10/7 -8% 拖累）。
+- **今日 19:00（北京时间）**：诺贝尔文学奖揭晓——**须官网核验后再写入结果（残雪 10/1 领跑，勿提前宣布；2025=Krasznahorkai 系误报勿重犯）**。
+- **明日 01:00（10/9 01:00 北京时间 / 10/8 13:00 ET）**：$39B 10Y 国债拍卖结果。
+- **10/9（周五）**：Isaias 登陆窗口（Cat 2，Mobile–Destin）+ JPM 盘后财报（Q3 银行股开局）。
+- **10/9 17:00**：诺贝尔和平奖（奥斯陆 11:00 CEST；Trump 被提名但非热门，Machado 领跑赔率）。
+- **10/12**：诺贝尔经济学奖 + 双 11 京东现货开抢（晚 8 点）。
+- **持续追踪**：霍尔木兹 217 天封闭（Kpler 130 艘改道、攻击升级）、保加利亚第四条磋商是否被政党推动、BTC 三源交叉（OKX/Kraken/CoinGecko 恢复后）、A 股节后资金回流与双 11 消费验证。
+
+---
+
+> 【本轮信息源】
+> - 腾讯 qt.gtimg.cn（美股 10/7 14:20 ET 盘中，02:20 CST 抓取）
+> - 新浪 hq.sinajs.cn（大宗商品 02:20 CST 抓取，Referer finance.sina.com.cn）
+> - https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/ （**2026 文学奖"尚未颁发"官网核验；2025=Krasznahorkai**）
+> - https://greatbooksofmankind.com/blog/who-will-win-the-2026-nobel-prize-in-literature + https://www.olbg.com （残雪 10/1 / 村上 14/1 赛前赔率；Ingrid Carlberg 新任常任秘书）
+> - https://fedandmarkets.com/p/fomc-september-2026-report 、https://mexc.co/crypto-pulse/article/fed-minutes-preview-164790 （FOMC 点阵图 4.10% / 16-18 / 10 月加息概率 70%→13–14% / 12 月 ~66%）
+> - https://www.nhc.noaa.gov （Isaias 10/7 10:00 CDT 通报：现热带风暴、周五峰值 110mph Cat 2）
+> - https://newsukraine.rbc.ua/news/bulgaria-rules-out-nato-articles-4-and-5-1791307321.html 、https://krcgtv.com/news/nation-world/bulgarias-leader-says-drone-attack-hit-two-vessels-ukraines-president-blames-russia/ （保总理 Radev：无第四/五条理由；ABLE 18 船员获救）
+> - https://www.nbd.com.cn/articles/2026-09-30/4596295.html 、https://finance.ce.cn 、https://finance.sina.com.cn （央行 1.2 万亿买断式逆回购、净投放 2000 亿多源核验）
+> - OKX/Kraken/CoinGecko BTC API 本主机不可达（network 101），本轮未重新核验 BTC
