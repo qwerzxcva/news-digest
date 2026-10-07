@@ -1084,3 +1084,90 @@
 > - https://www.freemalaysiatoday.com/ + https://www.fxstreet.com/news//the-pound-slides-back-to-the-bottom-of-its-range-as-the-bond-selloff-resumes-202610072155 （CME FedWatch 10 月加息概率 17.2% 周降 20.4pct + 英 30Y 上破 6% 1998 年新高 + GBP 1.32）
 > - https://zh.wikipedia.org/wiki/中国共产党第二十届中央委员会第五次全体会议 + https://baike.baidu.com/ + https://news.qq.com/rain/a/20261001A05UA400 + https://www.stdaily.com/web/2026-07/30/content_556074.html （五中全会 10/26–29 会期锁定 + 7/30 政治局会议经济政策框架 + 9/21 人事背景）
 > - https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPAT4+html/ （Isaias Advisory #5 为最新，21:00 UTC 10/7；03:00 UTC 下一通告）
+
+## 第 12 轮更新（10/8 07:53 北京时间 · 行情快照再核验 + 习特会 9/23–25 成果补全 + 美伊七日计划「美反提案」阶段确认 + 美国务院硬顶口径）
+
+> 编号说明：本轮为当日第 12 个更新 commit，子节顺延 13.x。本轮核心为 10/8 文件内**尚未录入**的三块：① 9/23–25 习特华盛顿国事访问的**六大成果**（访问本身第 10 轮 948 行已录「9/26 返京」，成果首次录入）；② 美伊七日计划阶段更新——**美「反提案」已送达、伊内部审查中**（修正第 11 轮「美方未回应」口径）；③ 美国务院 10/8 硬顶口径 + Able 黑海事件细节补全。行情快照 07:53 再核验。
+
+### 13.1 行情核验快照（07:53 CST · 新浪 + 腾讯 + Gate.io，较 07:16 上轮）
+
+| 品种 | 07:53 | 较 07:16 | 备注 |
+|------|-------|----------|------|
+| 标普期货 ES | **7,852.75（vs INX 7,801.77 → +0.65%）** | -4.8pt（+0.71% → +0.65%） | 高位横盘微回，开盘高开锚仍为正 |
+| 纳指期货 NQ | 31,437.40（+0.11%） | -16.7pt | 前结 31,403.00 |
+| 道指期货 YM | 51,432.92（vs DJI 51,179.87 → +0.49%） | -36.1pt | 前结 51,449.00（新浪字段） |
+| WTI CL | **88.968**（日内 88.77–89.06） | +$0.153 | 新浪前结字段 88.280（上轮口径 89.440 为旧字段，本轮不复述日涨跌） |
+| Brent OIL | **101.325**（vs 前结 100.580 → +0.74%） | 持平 | **06:00 后无新 tick**，日内区间 99.61–102.59 |
+| 黄金 GC | **4,135.07**（日内 4,128.1–4,140.8） | +$1.30 | 区间内震荡 |
+| 白银 SI | **60.032**（日内 59.96–60.19） | -$0.067 | 仍 >60（+0.05% vs 新主力前结 60.000），60.19 高点未再攻 |
+| XAU 现货 | 4,109.20（日内 4,103.25–4,116.04） | -$1.47 | 仍低于 Kitco 4,118 关键支撑 |
+| BTC（Gate.io） | **$83,306.2（24h -2.67%）** | +$53 | 24h 区间 82,765.9–85,604.8；OKX 返回空 / Kraken 未验，仍单源中置信 |
+
+**A 股 / 港股 / 美股（腾讯，未变）**：A 股 9/30 收盘（上证 3,842.19）/ 港股 10/7 收盘（HSI 24,130.50 / HSTECH 4,194.49）/ 美股 10/7 收盘（INX 7,801.77 -0.22% / IXIC 27,538.69 -0.22% / DJI 51,179.87 -0.66% / MU $1,088 +4.06% 3 连涨）。**A 股 10/8 09:30 节后首日重开（距 1h37m）**。
+
+**较 07:16 变化**：① ES +0.71% → +0.65%（微回横盘）；② SI 60.10 → 60.03（60 上方未失守，60.19 上沿未再攻）；③ GC/XAU 区间内；④ WTI 88.97 小幅回升；⑤ Brent 101.325 自 06:00 冻结（无新 tick）。**开盘情绪锚「正但高点下移」，与节后首日「量能验证」一致**。
+
+### 13.2 【补全·成果首录】9/23–25 习特华盛顿国事访问六大成果（访问本身第 10 轮已录；成果今日 10/8 英文媒体 summary + 当日 TNND 转载才首次系统曝光，本轮补齐）
+
+> 日期勘误说明：英文 summary 媒体（AP / AFP / WION / bbrw）称「周五收尾」、abc4/TNND（10/8 当日）称「this week 访问」——**实际访问为 9/23–25 三日**（央视 / 新华社 9/25 电：当地时间 9/25 下午返京，美东 9/25 = 北京 9/26 凌晨；stheadline：9/23 安德鲁斯基地抵美、9/25 收尾；系 2015 年以来习首次访美、对 5 月特朗普访华的回访），今日 10/8 TNND 系**以「伊朗外交背景」重新援引**该访问成果，「this week」为 wire 松口径。
+
+1. **关税休战延长 2 个月**（AP / AFP：访问最大经济公告；原 11 月到期 → 延至 2027 年 1 月前后）——**A 股出口链 / 电子 / 航运的节后外部减压锚**。
+2. **AI「双边沟通渠道」**（白宫 / AFP）：就 AI 事故事件建立沟通渠道（承接 9 月「八点共识」AI 治理项；习国宴：「中美都是 AI 大国，都有能力管控 AI，中国愿意和美国合作一起管控」）。
+3. **伊朗议题三件（美方对华施压 + 霍尔木兹机制中美首次公开共识）**：① 特朗普 9/25 国家档案馆确认与习讨论伊朗战争（「We did, we did」），霍尔木兹重开前景「I think we're going to do great」；② **白宫：双方同意「伊朗不得获得核武器」+「不得允许任何国家或机构对国际水道征收过路费（tolls）」**——「水道收费」项直接对应霍尔木兹「toll」机制争端，**系中美首次公开就水路过路费问题达成共识**；③ 驻京 / 驻华大使 Perdue：特朗普向习明确**任何中国对伊协助（直接或间接，情报 / 零件 / 军备）「完全不可接受」（「this is an ongoing drumbeat」，Perdue 对 CNBC / 10/7–8 重申）**，北京否认；习方（中国官媒，Kurdistan24 引）：希望美伊复谈、支持双方回到 14 点 MoU、敦促特朗普降级。
+4. **年内第 3、4 次会面确认**：11 月**深圳 APEC** + **美国迈阿密 G20**（stheadline：「欢迎总统夫妇到中国去！」）。
+5. **礼仪式细节**：特朗普称会晤「历史性 / tremendous strides」；赠熊猫「平平 / 福双」落户亚特兰大动物园（9/27 起程）；新学生交流计划；AMD CEO 苏姿丰出席国宴。
+6. **对 A 股映射**：① 关税休战延长 = 节后首日出口链尾部风险下降（窗口延至 1 月）；② 「水道零收费」共识 + 中国支持 14 点 MoU = **中国从霍尔木兹「旁观者」转「稳定器」**（中国为伊朗石油最大买家、海峡系其能源进口命脉，中国有最强动力支持重开）；③ 「中国援伊」施压线（Perdue drumbeat）= **新中美摩擦点**，关注后续科技出口管制 / 「涉伊」制裁跟进（10/8–15 窗口）。
+
+### 13.3 【阶段更新】美伊七日计划：美「反提案」已送达、伊内部审查中（修正第 11 轮「美方未回应」口径）
+
+**时间线合并（多源核验）**：
+- **9/22–9/26**：七日计划经卡塔尔中介送达华盛顿（IRNA / Sputnik 9/26 录 Araghchi 于 UN 总部 stakeout 首曝；anewz 称「9/22 UNGA 边会经中介送达」，口径略有出入）；**特朗普 9/26 公开否决原案（Axios：「They want to make a deal, but it is not the deal that I want to make」/「would not be acceptable」）**。
+- **9/29（周二）**：Witkoff-Kushner 与 Araghchi 于 UNGA 边会新一轮间接谈判；美方告知伊「伊朗不控制海峡、故不能就海峡提要求」（Axios 经 Kurdistan24）。
+- **9/30–10/1**：Gharibabadi / Baghaei / Mohajerani（IRNA / AP / AFP）：美**反提案（counterproposal）**已收到、审查中；Araghchi 向 Pezeshkian 内阁会汇报；**Reuters：反提案内容 =「7 天信心建设措施期，回到 6 月 MoU 的增强版，含核计划具体步骤」**（即美接受「分阶段」框架但不接受伊「先给条件、后开海峡」的顺序）。
+- **10/4（周四）**：Gharibabadi：美回应内部审查中，**最终立场「经适当渠道传达」+「德黑兰同时为其它情景做好准备（军事选项保留）」**；The National（10/3）：「伊朗坚持己案唯一可行，不太可能接受美反案」。
+- **10/7（周三）**：NHK / 伊方：Araghchi 再次向总统汇报美回应。
+- **10/8 当日（美东 10/7 晚–10/8）**：① **美国务院副发言人 Ortega：「海峡目前是开放的（the strait is currently open）」**——直接反驳德黑兰「海峡已关、待重开」叙事 + 「Trump holds all the cards」；② **Pompeo（Fox）：「很可能是个不严肃的提案（likely not a serious proposal）」**；③ **Pezeshkian（Fox）：「若对方同意，我们在寻求协议」**；④ abcstlouis / IBTimes：「霍尔木兹商船遇袭新报告」佐证能源市场高 stakes（具体 UKMTO 告警号本轮未取到，下轮日度核验）。
+
+**阶段判定（取代第 11 轮「待美回应」框架）**：七日计划已推进至 **「美反提案送达 + 伊内部审查 + 美公开硬顶」三线并行阶段**；裁决点 = **伊最终立场（审查完成后）**——**若伊接受反案 → 7 天时钟自接受日起算（第 6 天开海峡、第 7 天终局谈判）→ Brent 自 101.33 向 $90 区间；若伊拒绝 + 「其它情景」落地 → 战争风险溢价重定价，Brent 日内高点 102.59 为上沿、上冲 $105+ 需战争升级配合**。
+
+### 13.4 跟踪状态（无实质新增，细节补全）
+
+- **Isaias**：NHC 最新仍 Advisory #5（10/7 21:00 UTC），**下一通告今日 11:00 CST（距 3h7m）**，预计正式升级飓风；登陆基准不变（周五早 Cat 2 峰值 110 mph，Mobile–Pensacola）。
+- **黑海 Able / Alfa Watan**：细节补全——退役国防部长 Eftimov（10/8 BNT / ground.news，约 04:00 CST）：「船员只有 3 分钟反应；**袭击为海空无人机组合打击**」（2:54 应急浮标信号、约 11 分钟后求救）；10/6（周二）保加利亚 EEZ 两艘土耳其籍船遇无人机：ALFA WATAN（多哥旗）沉没、ABLE（帕劳旗）起火，**18 名船员全部由客轮 Dioscuria 救起**（Sofia Globe）；Able 最终状态（坐沉 / 漂浮）仍在 10/8–10/9 核验窗口。
+- **诺奖文学奖**：官网仍「尚未颁发」，**今日 19:00 CST（距 11h7m）**。
+- **JPM/Citi/WFC 财报**：10/13 盘前不变；10/19 经济发布会 + 10/26–29 五中全会节点不变（12.6）。
+
+### 13.5 本轮分析与展望
+
+1. **习特会成果补全（13.2）改变节后首日外部变量结构**：关税休战延长 2 个月（原 11 月到期 → 2027 年 1 月前后）= 节后出口链减压锚；「水道零收费」共识 + 中国支持 14 点 MoU = 中国成霍尔木兹稳定器（油气管 / 航运 / 通胀端偏正面）；Perdue「援伊」drumbeat = **新中美摩擦点**（10/8–15 关注出口管制 / 涉伊制裁跟进）。
+2. **七日计划进入「反提案」阶段（13.3）**：短线市场按「僵局 + 硬顶」定价（Brent 101.325 冻结 + ES +0.65% 横盘与此口径一致）；**下一脉冲点 = 伊最终立场（二元事件：Gharibabadi「最终立场经适当渠道传达」，非连续变量）**——拒绝 + 「其它情景」→ 军事选项与 Able / Isaias 脉冲叠加、Brent 上看 $105+；接受 → Brent $90 区间 + 美 A 双正向。
+3. **A 股节后首日开盘情绪锚（09:30，距 1h37m）**：ES +0.65%（高点微回）+ SI 60.03 守 60 + 关税休战延长（新）vs 美 30Y 5.69% / 英 30Y 6%+ 长债共振外资逆风 + 「援伊」新摩擦点；验证点不变：北向开盘集合竞价 + 量能 1.5 万亿 + 存储链（MU 映射）vs 设备代工链（ASML / TSM 回调）分化。
+
+### 13.6 本轮 Watchlist
+
+- **今日 09:30（北京）**：A 股节后首日开盘——13.5-3 三锚验证（ES +0.65% / 关税休战延长 / 长债逆风）。
+- **今日 11:00（北京 / 03:00 UTC）**：NHC Isaias 新通告——预计正式升级飓风。
+- **今日 19:00（北京）**：诺贝尔文学奖揭晓——官网核验后再写入。
+- **10/8 晚（美东）–10/9 凌晨（北京）**：**伊朗审查完成后最终立场（13.3 二元事件）** + Ortega / Pompeo 硬顶口径后续 + 「其它情景」（军事选项）信号 + 13.3-④「商船遇袭新报告」UKMTO 告警号核验。
+- **下周二 10/13（8:00 ET 盘前）**：JPM / Citi / WFC 财报季开局 + ASML / TSMC 10/13–15 密集披露。
+- **10/19（北京）**：国民经济运行发布会。**10/26–29**：二十届五中全会（12.6）。
+- **中长期日历（新增首录）**：11 月深圳 APEC + 迈阿密 G20 习特第 3、4 次会面（13.2-4）；「援伊」施压线 10/8–15 跟进（13.2-6③）。
+- **持续追踪**：UKMTO 日度袭击节奏（周度 ≥14 艘基准）、Able 坐沉核验（10/8–10/9）、XAU 4,109.20 vs Kitco 4,118、美 30Y 5.69% / 英 30Y 6%+、BTC 多源（Gate.io $83,306.2 单源）、CME FedWatch 10 月加息 17.2% 后续。
+
+---
+> 【本轮信息源】
+> - 新浪 hq.sinajs.cn（hf_CL/hf_OIL/hf_GC/hf_SI/hf_ES/hf_NQ/hf_YM/hf_XAU，07:53 CST 抓取，Referer finance.sina.com.cn）
+> - 腾讯 qt.gtimg.cn（07:53 CST；A 股 9/30 收盘 / 港股 10/7 收盘 / 美股 10/7 收盘未变）
+> - https://api.gateio.ws/api/v4/spot/tickers?currency_pair=BTC_USDT （$83,306.2，07:53 CST；OKX 返回空，仍单源中置信）
+> - http://www.cnts.gov.cn/tssrmzf/tsyw/ttxw/content/post_3559832.html + https://www.sohu.com/a/1080932424_429139 （新华社「华盛顿 9 月 25 日电」：习 9/25 当地日下午返京——访问时段 9/23–25 坐实）
+> - https://www.stheadline.com/zh-hans/realtime-china/3614574/ （习特会直播时间线：9/23 抵美 / 9/25 茶叙 + 国宴 + 收尾 / 深圳 APEC + 迈阿密 G20 / Truth Social「SUPER INTELLIGENCE」/ 熊猫平平福双 / 苏姿丰出席国宴）
+> - https://kurdistan24.net/en/story/941866 + https://bbrw.com/trump-xi-summit-ends-with-modest-deals-and-major-questions + https://u.afp.com/S9NL + https://moneycontrol.com/world/trump-says-he-discussed-iran-war-with-xi-jinping-as-us-warns-chinese-help-to-tehran-is-unacceptable-article-14038598.html + https://newsbreak.com/france24-345686979/ （习特会成果：2 个月关税休战延长 / AI 沟通渠道 / 伊朗议题三件 / Perdue 援伊施压 / 「伊朗不得获核武 + 水道零收费」共识）
+> - https://abcnews4.com/news/nation-world/iran-pitches-seven-day-roadmap-for-ceasefire-renewed-nuclear-talks-strait-of-hormuz-tehran-nuclear-xi-jinping （10/8 TNND：Ortega「海峡目前开放 + holds all the cards」/ Pompeo「不严肃提案」/ Pezeshkian Fox 表态 / Witkoff-Kushner 9/29 UNGA 边会谈 / 「this week」系援引 9/23–25 访问的松口径）
+> - https://en.irna.ir/news/86274596/ + https://sputnikglobe.com/20260926/iran-offers-7-day-hormuz-reopening-plan-to-us--araghchi-1124791961.html （9/26 Araghchi 七日计划首曝 + 全文声明）
+> - https://yahoo.com/news/politics/articles/iran-considers-us-counterproposal-ceasefire-200020811.html + https://newsbeep.com/752765 （10/7：Araghchi 经卡塔尔渠道收到美反案；Reuters：反案 = 7 天信心建设措施、回到 6 月 MoU 增强版含核步骤；特朗普 Axios「not the deal I want to make」）
+> - https://crisis.zone/iran-says-it-has-received-a-us-response-to-its-ceasefire-proposal （9/30：Mohajerani IRNA 确认收到 / Araghchi 内阁会汇报 / 特朗普 9/26 公开否决）
+> - https://anewz.tv/region/middle-east/25116/ + https://en.irna.ir/amp/86283103/ + https://www.iranintl.com/en/202610047470 （10/4：Gharibabadi「美回应审查中 + 同时为其它情景准备 + 最终立场经适当渠道传达」）
+> - https://www3.nhk.or.jp/nhkworld/news/20261001de53586/ （10/7 周三：伊方再次向总统汇报美回应）
+> - https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/ （10/3：美反案送达、伊「不太可能接受」）
+> - https://abcstlouis.com/news/nation-world/iran-reviews-us-ceasefire-counterproposal-as-strait-of-hormuz-terms-remain-unclear （10/7 TNND：10/7 收到最新美反案 + 「霍尔木兹商船遇袭新报告」佐证，告警号下轮核验）
+> - https://ground.news/article/the-crew-of-the-alpha-vatan-had-only-3-minutes-to-react + https://sofiaglobe.com/2026/10/06/pm-radev-calls-emergency-meeting-after-drone-attacks-on-two-ships-in-bulgarian-eez-with-one-sunk + https://www.kyivpost.com/post/86230 （黑海 Able / Alfa Watan：海空无人机组合打击 / 18 船员 Dioscuria 救起 / Able 坐沉待核验）
