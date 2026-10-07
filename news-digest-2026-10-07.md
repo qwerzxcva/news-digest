@@ -1871,3 +1871,76 @@
 - https://heraldsun.com/news/business/article317522458.html + https://srnnews.com/wall-st-futures-slip-as-yields-and-oil-rebound-fed-minutes-in-focus （Reuters/Herald Sun：Fed 纪要「比 12-0 更广的讨论」预览 + 周二 S&P/纳指收盘新高背景）
 - https://www.gate.com/news/detail/houthi-forces-claim-attacks-on-saudi-airports-and-military-base-on-october-24793699 （gate 关联 14:45 CST：沙特夜间多省含萨那空袭 + 66 次打击 / 10 枚导弹口径复核）
 - https://www.okx.com/api/v5/market/ticker?instId=BTC-USDT （20:46 重测：超时不可达，三源维持不可用）
+
+## 第 26 轮更新（2026-10-07 21:26 北京时间 · 20:55 之后新进展）
+
+### 26.1 期货速报（21:25–21:26 新浪 hf 实时核验）— 金银自低位反弹、Brent 再试 102.35【本轮主事件】
+| 品种 | 最新 | 前结 | 日内高 / 低 | 较前结 | 对比 20:45（25.1） |
+|------|------|------|-------------|--------|-----------------|
+| WTI CL | $90.441 | $89.440 | $90.610 / $89.330 | +1.1% | 90.251→90.441（+0.2%） |
+| 布伦特 OIL | **$102.111** | $100.580 | **$102.350** / $100.760 | +1.5% | 101.798→**102.111（再试 102.35 高位）** |
+| COMEX 黄金 GC | **$4,113.74** | $4,187.10 | $4,197.80 / $4,091.20 | **-1.8%** | 4,094.71→4,113.74（**重收复 4,100**） |
+| COMEX 白银 SI | **$59.883** | $61.589 | $61.845 / $59.230 | -2.8% | 59.368→59.883（**逼近 60 收复**） |
+
+- **黄金 4,100 已收复，白银 60 即将收复**：25.1「失守 4,135/4,100 与 60」后 40 分钟内反弹 — GC 自日内低 4,091.20（40 分钟前 4,094.71 低点附近）弹回 4,113.74（+0.54% from low），SI 自 59.23 反弹至 59.88（+1.0%，仍低于 60）。较日内高回撤：金 -2.0% / 银 -3.2%。
+- **Brent 再试 102.35**：102.111 / 102.350 高位，距 102.35 高点仅 24 美分；若 22:30 EIA WPSR 库存超预期下降，102.35 上沿仍有突破动力。WTI 90.44 维持前结上方。
+- **美股明日开盘前期货**：AP 10/7 晨间（~5:00 ET / 17:00 CST）Dow -0.3%、NQ -0.4%、S&P -0.1%；10Y 5.33%、30Y 5.71%（postregister / AP，21:26 复核确认 30Y 仍在 5.70% 以上）。
+
+### 26.2 【新增】飓风 Isaias 升级 + 能源基础设施风险量化【本轮主事件】
+- **NHC Advisory #3（4:00 AM CDT = 16:00 北京时间）**：AL92 升级为热带风暴 Isaias（40 mph / 35 knots，最低压 1,004 mb），位于 Progreso 墨西哥以西 285 英里。移动 ENE 8 mph。
+- **预报路径与强度**：
+  - 周四 06:00 UTC：65 knots（75 mph，**首次达飓风强度**），近尤卡坦半岛西北通过；
+  - 周五 06:00 UTC：95 knots（110 mph，**主要飓风**），位置 25.5N 88.5W（Mobile 附近，美国北部墨西哥湾沿岸）；
+  - 周六 06:00 UTC：75 knots（85 mph）内陆，周日晚间后热带气旋消散。
+- **登陆窗口**：东路易斯安那至佛罗里达狭长地带（Mobile–Pensacola–Destin 区间），目前 NHC cone 覆盖该区域；**3–6 英寸降雨（局部可达 10 英寸）**，风暴潮受轨迹不确定性影响大。
+- **⚡ 能源关键数据（Reuters via tradersagency）**：墨西哥湾离岸产区贡献美国 **15% 原油 + 5% 天然气**；受风暴影响潜在炼厂 6 座；墨西哥湾炼油产能占全国 **约 50%**（全国 18.2M bpd）；**BSEE 截至周二上午数据显示 9.24% 的墨西哥湾原油产量已停产**（尚未疏散平台，但封港预警已触发）。NHC 预计当天晚些时候为美国北部墨西哥湾沿岸发布**飓风观察预警**。
+- **与油价定价联动**：若 Isaias 周五登陆墨西哥湾主要产区（Louisiana/Texas 炼油走廊），Brent / WTI 在 EIA WPSR（22:30 CST）之前已处于高位（102+ / 90+），供应风险溢价与地缘溢价双重叠加；若风暴偏东（Florida Panhandle）则炼化影响较小。
+- **Track 不确定性**：NHC forecaster Papin 明确指出 AI 模型轨迹偏东、物理模型偏西，最新轨迹较上一周期**向东偏移**；当前仍属于 72 小时预报误差范围。
+- 【参考】Round 22 已录「Isaias 命名 / NHC 峰值 95kt / 周五美国墨西哥湾登陆 / 3-6in 降雨」；本轮新增**NHC Advisory #3 完整路径**、**9.24% 已停产 + 6 座潜在受影响炼厂 + 50% 全国产能**的量化表述。
+
+### 26.3 【新增】WGC 8 月央行购金 39 吨（ING / Kitco 10/6 转引）
+- WGC 口径 8 月净购入 **39 吨**，2026 年累计 **170 吨**；**中国领跑** 20 吨（连续 22 个月购金）、波兰 + 乌兹别克斯坦各 8 吨；**土耳其回归**（+3 吨，此前 3 个月净卖出）；哈萨克斯坦、捷克、玻利维亚、加纳亦增持；**俄罗斯 -6 吨**。除英国外全球央行连续多月净买入（英国当月卖出 3 吨）。
+- ING 大宗商品团队解读：央行购金在收益率高企 + 金价剧烈波动环境下依然强劲，是金价 4,000–4,100 区间的「结构性底部」支撑（25.2 已录 68.97 的 68 基线 / 央行 Q2 购金 289 吨季度纪录，本轮补 8 月单月 39 吨细化表）。
+
+### 26.4 【新增】Groq 工程师起诉 Nvidia $20B 交易「绕过股东投票 / 挤压普通股」【单源待核细节】
+- **案件**：Joshua Rubin + Benjamin Serebrin（均为已离职的 Groq 工程师兼股东）于 10/2 在特拉华州衡平法院（2026-1291）起诉 Groq 董事会，指控 2025 年 12 月 Christmas Eve 公布的 $20B 交易实质是「收购式人才挖角（acqui-hire）」，但刻意规避了 Delaware 法要求必须进行的股东投票。
+- **结构拆解（QZ / CNBC 交叉核实）**：Nvidia 定向 $17B 为 Groq 推理 IP 的「非独家许可」（所得归全部股东分享），另设 $3B RSU 池给**跟随技术转移至 Nvidia 的工程师**（含创始人 Jonathan Ross + 总裁 Sunny Madra + 150–200 名工程师）。诉讼声称普通股股东被「低价挤出」。
+- **原告方主张**：董事会多数成员受利益冲突（BlackRock / Social Capital / Infinitum / Disruptive 四家基金代表在董事会，且保留对存活公司的权益），未尝试最大化资产售价；$17B 许可费被当**应税收入**处理，进一步侵蚀股东收益。
+- **Nvidia / Groq 回应**：Nvidia CEO Huang 邮件明确「我们是增加人才 + 许可 IP，并非整体收购 Groq」；Groq 发言人称「该许可协议为 Groq、投资者、员工创造了卓越价值，诉讼缺乏依据」，将积极抗辩。
+- **与 24.6「Nvidia Groq 诉讼」的增量**：24.6 仅录标题新闻；本轮补**诉状核心细节**（$17B 许可 vs $3B RSU / 原告身份 / 四基金利益冲突 / Delaware 判例空白）。
+
+### 26.5 BTC
+- OKX 21:26 重测仍无响应（三源维持不可达）；沿用 **~$85.9–86.1K** 区间，10/8 恢复后交叉（24.8 既定）。
+
+### 26.6 第 26 轮分析
+1. **金银「急跌—反弹」的定价结构已改变**：25.1 的「双关键位失守（金 4,100/银 60）」至 21:25 的「4,100 + 60 双双反弹」仅历时约 40 分钟，日内高 4,197.80 → 低 4,091.20 → 回升至 4,113.74，振幅 -2.5% 至 +0.5%。驱动从「收益率冲击抛售」转向「4,100 整数位 + WGC 8 月 39t 结构性买盘托底」；明日 02:00 纪要若坐实「比 12-0 更广讨论」则 4,050/4,000 再度承压，鸽派则 60 关口收复 + 金银共振反弹。**A 股黄金股池 10/8 首日的风险敞口已从「失守」转为「收复与否的短线博弈」**。
+2. **Isaias 升级 + 9.24% 墨西哥湾已停产 = 今晚 22:30 EIA WPSR 的双重变量**：库存超预期降 → Brent 102.35 再攻；供应端若风暴推迟或改道，Brent 维持 102+ 概率上升；A 股 10/8 油气板块首诊叠加外部避险溢价。** hurricane watch 大概率在今天晚间发布（NHC Advisory 4 预计晚些时候）**，届时油价将更直接计价。
+3. **美股明早开盘前的定价锚**：10Y 5.33% / 30Y 5.71% 双债市新高 + Brent >100 + 胡塞/Isaias 双重供应风险；S&P 在 7,818.93 新高位置上的持仓集中度（NVDA/AAPL/MSFT ~1/5）使「利好出尽」定价继续主导。**EIA WPSR（今晚 22:30）+ FOMC 纪要（明早 02:00）+ PEP/DAL/BMO（明早 04:00）三重事件窗口叠加**，10/8 是本周最大波幅日。
+4. **WGC 8 月 39t 央行购金是金价底部的锚**：即使收益率 30Y 5.70%、现货 4,113，官方持续净买入（年累计 170t）提供下行硬支撑，与 Bespoke/Kobeissi「2026 年内 7 次单日 -3.5%+ 大跌（1982 年以来最高）」的剧烈波动并存 — 意味着短期「宽幅震荡」是常态，趋势反转仍需 Fed 或地缘事件主导。
+5. **A 股 10/8 节后首日「外弱内松」组合延续**：①黄金/白银日内剧烈波动 + 原油高位；②Isaias 周五登陆风险未除；③日经 -0.86% / Kospi -0.9%（24.5）延续；④Vance 60% 浓缩门槛谈判僵局（16.2）未破冰。对冲：1.2 万亿买断式逆回购（假期已启动）+ 消费数据（国庆假期 9 亿人次量级）、港股恒科假期涨 8.53%（节前抢跑）、政治局五中全会（10 月召开，主要议程全面从严治党，同时审议经济工作）。**节前科技股与油气股的跷跷板格局（10/8 开盘）需关注 1.2 万亿逆回购的落地节奏 + 北向首笔方向。**
+
+### 26.7 第 26 轮 Watchlist
+- **今日 21:30 CST**：美股开盘（期货 Dow -0.7% / -0.3% / -0.6% 水平 + STZ -5% 盘中反应）。
+- **今日 22:30 CST**：EIA WPSR 周报（原油库存）+ Isaias 飓风观察预警预期（NHC Advisory 4）→ 102.35 再攻 / 破裂。
+- **今日 21:26 CST**：黄金 4,113 能否守住 / 白银 59.88 能否收复 60（现货 / 期货双轨）。
+- **明日 02:00**：FOMC 9 月纪要（「更广讨论」预览 + 12 月加息定价 + 10Y/30Y 5.3%/5.7% 双轨）+ $39B 10Y 拍卖双事件。
+- **明日 04:00**：PEP / DAL / BMO Q3 + LEVI / APLD / RGP / CANOF 盘后。
+- **明日 19:00**：诺贝尔文学奖（官网为准，23.4 已修正时间；物理奖 Halzen/IceCube 已坐实）。
+- **10/8**：A 股节后首交易日 + 1.2 万亿逆回购（黄金股 / 油气股 / 军工池 / 科技修复预期 45%）；BTC 三源恢复交叉；MCX 印度基差。
+- **10/13**：JPM / ASML / TSMC Q3 财报（15.6 既定）。
+- **持续追踪**：Isaias 周五登陆点不确定性（9.24% 已停产 + 6 炼厂 + 50% 全国产能）→ 若 Friday 飓风登陆墨西哥湾核心炼油区，Brent 102.35→105 区间概率上升；胡塞「拂晓打击」多源核实（Badr 营地 / 3 营地伤亡）；中美核设施互访 + AI 事件通报后续（11 月深圳 APEC 节点）。
+
+---
+
+## 附录：原始信息源（第 26 轮补充）
+- hq.sinajs.cn/list=hf_CL,hf_OIL,hf_GC,hf_SI （新浪 hf 期货 API 21:25–21:26：WTI 90.441 / Brent 102.111 / GC 4,113.74 / SI 59.883；Referer 头）
+- http://qt.gtimg.cn/q=us^DJI,us.IXIC,us.INX,usAAPL,usNVDA,usMSFT,usGOOGL,usMETA,usAMZN,usTSLA,usAMD,usMU,usJPM,usASML,usTSM （腾讯 21:26 复核：美股 10/6 收盘值不变；IXIC 27,599.89 / INX 7,818.93；TSLA 380.68 等，timestamp 2026-10-07 09:30:00 盘前）
+- https://tradersagency.com/blog/nhc-upgrades-gulf-system-to-tropical-storm-isaias-expects-hurricane-to-approach-northern-gulf-coast-friday （NHC Advisory #3 完整路径 + Reuters 能源数据：15% US crude / 5% nat gas / 6 refineries / 9.24% Gulf output shut-in / 50% national capacity）
+- http://www.kitco.com/news/article/2026-10-06/central-banks-add-39-net-tonnes-gold-august-china-uzbekistan-and-poland （Kitco 10/6：WGC 8 月央行净购金 39t；YTD 170t；中国 +20t / 波兰 +8t / 乌兹别克 +8t / 土耳其 +3t / 俄罗斯 -6t，引用 ING 大宗商品团队口径）
+- https://postregister.com/businessreport/government/us-futures-slip-as-oil-prices-and-bond-yields-rise-with-markets-awaiting-latest-fed/article_42750dff-ef12-51f3-a4f7-a670d62ee34c.html （AP 10/7 晨间：Dow -0.3% / NQ -0.4% / S&P -0.1%；Brent $101.88 / WTI $89.99；10Y 5.33% / 30Y 5.71%）
+- https://apnews.com/article/44b75c188756038371cf3112ede9cee8 （同上 AP 多源转载）
+- https://coincentral.com/stock-market-today-stock-futures-hold-near-record-highs-as-fed-minutes-loom （Coin Bureau 10/7：Warsh 12-0 票面 + dot plot 暗示 2026 年内另一加息 + FactSet S&P500 EPS +30%；Brent >$100 + Houthi 袭击）
+- https://tradingkey.com/news/indices/262203653-fxstr （TradingKey 10/7：10Y 5.30% / 30Y 5.69%；CME FedWatch 10 月加息概率 ~22%；Schmid 8/10 偏鹰发言）
+- https://qz.com/groq-nvidia-deal-stockholder-lawsuit-engineers-100526 （QZ 10/5：Groq 工程师起诉 $20B 交易绕过股东投票 / $17B 许可 + $3B RSU / BlackRock 等四基金利益冲突，Delaware Chancery 2026-1291）
+- https://cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html （CNBC 10/5： lawsuit 核心指控 + 诉讼方/被告身份 / Groq 回应）
+- https://www.okx.com/api/v5/market/ticker?instId=BTC-USDT （21:26 重测：超时不可达，三源维持不可用）
