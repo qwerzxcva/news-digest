@@ -557,3 +557,101 @@
 > - https://www.nhc.noaa.gov/ + https://www.usatoday.com/story/news/weather/2026/10/07/tropical-storm-isaias-forms-hurricane-updates/92122394007/ （Isaias 通报：现 TS、周四 Cat 1、周五 110 mph Cat 2）
 > - https://theguardian.com/books/2026/oct/07/anne-carson-and-can-xue-favourites-to-win-nobel-prize-in-literature （Anne Carson/残雪并列 10/1 + 2025=Krasznahorkai 对照）
 > - https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/ （2026 文学奖"尚未颁发"官网核验，19:00 揭晓）
+
+## 第 6 轮更新（10/8 04:20 北京时间 · 美股收盘定盘 + 霍尔木兹美方口径新变化 + 黑海/飓风细节补录）
+
+### 8.28 行情核验快照（04:07–04:15 · 腾讯 + 新浪 + Gate.io API）
+
+**美股收盘（10/7 16:00 ET 最终，腾讯 API 时间戳 16:00–16:08 ET 核验；道指 usDJI 符号补录成功）**：
+| 标的 | 收盘 | 涨跌（vs 前收） |
+|------|------|------|
+| INX（标普 500） | 7,801.77 | -0.22%（-17.16，距 10/6 纪录 7,818.93 差 17pt） |
+| IXIC（纳指） | 27,538.69 | -0.22%（-61.20，前收 27,599.89 纪录日） |
+| DJI（道指） | **51,179.87** | **-0.66%**（-341.41，显著弱于纳指——金融/价值承压） |
+| **MU 美光** | **$1,088.00** | **+4.06%**（3 连涨，日内高 1,089.20 附近收盘，存储链独强） |
+| META | $721.31 | **-2.38%**（权重领跌） |
+| TSM | $472.15 | -2.10%（设备续弱） |
+| ASML | $1,804.96 | -1.59% |
+| AMZN | $259.92 | +1.42% |
+| AAPL | $336.67 | +0.91% |
+| GOOGL | $350.50 | +0.81% |
+| NVDA | $237.47 | -0.74% |
+| TSLA | $377.81 | -0.75% |
+| AMD | $645.86 | -0.55% |
+| JPM | $329.50 | -0.54% |
+| MSFT | $529.76 | +0.09%（基本持平） |
+
+> 尾盘定盘解读（vs 第 5 轮 15:30–15:32 ET 快照）：INX 7,798.06→7,801.77、IXIC 27,504.82→27,538.69，**最后 30 分钟小幅回稳**；道指 -0.66% 大幅弱于纳指 -0.22%——**金融/价值权重承压**（10Y 5.35% 2002 年以来高位 + 30Y 5.724% 24 年新高驱动）；MU 收盘 +4.06% 于 $1,088（3 连涨），META -2.38% 为科技权重最大跌幅；10/8 09:30 A 股存储链（雅克科技/国瓷材料/华特气体映射）开盘强度锚不变。
+
+**大宗商品（新浪 hq.sinajs.cn，04:07 CST）**：
+| 品种 | 最新 | 前结 | 日内区间 | 变动 |
+|------|------|------|---------|------|
+| WTI CL | **$88.877** | $89.440 | 87.960–90.980 | -0.63% |
+| Brent OIL | **$100.780** | $100.580 | 99.610–102.590 | **+0.20%（站稳 100 上方）** |
+| COMEX 黄金 GC | **$4,126.750** | $4,187.100 | 4,091.2–4,197.8 | -1.44%（仍处 4,130 下方） |
+| COMEX 白银 SI | **$59.855** | $61.589 | 59.230–61.845 | **-2.82%（仍在 60 下方，两月低位区）** |
+
+**BTC（Gate.io 现货，04:13 CST）**：**$83,505.6（-2.45% 24h）**，24h 区间 $82,765.9–$85,672。OKX 本主机仍不可达（超时），**中置信**（单源）。
+
+**A 股 / 港股**：仍为 9/30（A 股）与 10/7（港股）前收盘——上证 3,842.19 / 深成 12,887.62 / 创业板 3,135.28 / 科创 50 1,530.01；HSI 24,130.50（-0.62%）、HSTECH 4,194.49（-0.68%）。**10/8 09:30 A 股节后首日重开（距 5h+）**。
+
+### 8.29 【新增】Rubio："伊朗已失去对霍尔木兹海峡的控制" + UKMTO 一周 12 艘油轮遇袭
+
+- **美态口径（Washington Times 10/7，Rubio 于雅典）**：*"The Strait of Hormuz is open. There's almost as much oil flowing out now as there was before this conflict began… They've lost complete control of the strait."*——美军海上封锁正"拦截伊朗油轮"、流量"接近战前水平"。
+- **与既有"封闭 221 天"框架的结构性对照**：当前实际结构 = **官方封闭政策（"油轮换油轮"自 2/28 生效）+ Kpler 口径流量 ~80% 战前（含影子船队）+ 袭击节奏加速**——美方"open/失去控制"措辞针对"伊朗对海峡的单边封锁能力"，而非"袭击事件消失"。
+- **UKMTO 周度口径（9/29–10/5，WSJ/WaTimes 汇总）**：**12 艘油轮遭伊朗导弹/无人机打击**——较此前"多日无袭击"（独立油轮追踪器口径）显著上升；WSJ 匿名美官员：伊朗**瞄准技术可能已改进**；多数事件 UKMMO 标签为"unknown projectile"、伊方未认领。
+- **油价含义**：Brent 100.78 站稳 100 = "流量修复 vs 袭击加速 + 保险 3–10% 船价 + 卡塔尔 LNG 不可抗力至 12 月初"双驱动平衡态；**下一变量从"流量"切换为"保费与袭击频率"**——若周度 12 艘节奏延续，Brent 上探日内高点 102.59 概率上升。
+
+### 8.30 【新增】黑海保加利亚细节补录（3 艘土耳其关联船 / Able 沉没风险 / 10 人失踪）
+
+- **Maritime.bg / Turkish Minute（10/7）**：Alfa Watan 与 Able 均由**土耳其注册公司管理**；**两天内 3 艘土耳其关联船只遇袭**；Alfa Watan 失踪人数保官方未确认，Maritime.bg 口径**船上 10 人**（搜救已终止、未找到幸存者/遗体）。
+- **Euronews（10/7 更新）**：同次打击中的第二艘 Able（帕劳旗）**仍在燃烧、预计下沉**（18 名船员此前已全部获救：11 名土耳其籍 + 7 名印度籍，送 Varna 医院）——**事实核查窗口 10/8–10/9 需跟踪 Able 是否坐沉**。
+- **AP（10/7，经 ny1）**：**保总统**（国安会召开）归咎"俄罗斯对乌克兰的战争显著恶化了黑海地区安全环境"，引述"**海上与空中无人机对商船袭击的上升趋势**"；与俄方"已救援船员"叙事冲突未解。
+- 保总理 Radev"无第四/五条理由"口径（EEZ 特殊法律地位）不变；反对党持续施压 Article 4 磋商。
+
+### 8.31 【新增】Isaias NHC Advisory 4a（10/7 13:36 EDT）修正 + 东太平洋 Hurricane Rachel
+
+- **4a 通报要点（vs 第 5 轮"周四 Cat 1 / 周五 110mph Cat 2"口径的修正）**：目前位于 **Campeche 湾**，最大持续风力 **50 mph**（较 3 号通报 40 mph 增强）、ENE 8 mph；未来 1–2 天转向北上并加速；"**持续增强、但登陆前可能略有减弱**"（新增不确定性表述）；风场将**显著扩展且向东不对称**（登陆点东侧风更猛）；佛州 Panhandle 条件可能**周五清晨**开始恶化；NHC 明确"**时间与路径均有相当不确定性**"——**本轮将"周五 Cat 2 确定登陆"下调为"周五 Cat 2 峰值为基准情景"**。
+- **另一活跃系统**：NHC 主页面 **Hurricane Rachel（东太平洋）** + TD 20（Marine）在通告中；"Gulf of America（美墨湾新名）与东太平洋海洋警告生效"。
+- **能源端（BSEE 不变）**：Gulf 原油停产 9.24% + 6 座炼厂 + 50% 全国炼能；WTI 88.88 的回升即预定价。
+
+### 8.32 【新增】Lilly–InnoCare $3.35B 药物发现合作 → LLY 10/7 +4.1% 收复 $1,200
+
+- **合作内容（pharmaphorum 9/24 / IHH 10/2）**：Lilly 与中国 **InnoCare** 达成广泛药物发现合作：**$100M 首付/近期付款 + 最高 $3.25B 里程碑**，InnoCare 平台承担**最多 5 个项目**（肿瘤/自免靶点）；Lilly 2026 年 M&A/许可"扫货"累计支出**超 $32B**（仅剩 1/4 季度）；分析称中国现占全球药企 pipeline 项目约 **1/3**。
+- **盘面**：LLY 10/7 **+4.10% 至 $1,205.00**（日内高 $1,205.24，收复 $1,200 关口，市值 ~$1.07T）——驱动为 InnoCare 合作 + Mounjaro/Zepbound 减重药动能；**Q3 财报定于 10/29 10:00 ET（IR 官网，尚未公布）**，Q2（8/5 公布）营收 +48% 至 $22.97B / EPS $8.38，FY26 EPS 指引已上调至 $35.50–36.50。
+- **映射**：InnoCare 为 A 股上市（年内与 Zenas / Biogen / Prolium 多笔交易，Lilly 单为其最大）——今日 A 股医药板块情绪侧面变量；政策面背景：部分美国议员主张**禁止美企对华许可/投资输血**（pharmaphorum）。
+
+### 8.33 诺贝尔文学奖（04:10 CST 官网复验，仍"尚未颁发"）
+
+- 官网列表页（本轮 04:10 复抓）维持："**The Nobel Prize in Literature 2026 has not been awarded yet. It will be announced on Thursday, 8 October 2026, 13:00 CEST at the earliest**"（= **今日 19:00 北京时间**）。
+- 本轮 web_search 再次混入**往年旧稿**（Jon Fosse=2023、Louise Glück=2020、Krasznahorkai=2025），均已判定不采信；**赛前赔率现状：Anne Carson / 残雪 并列 10/1 居首（Ladbrokes 10/7 口径）**。结果须 19:00 后官网核验再写入。
+
+### 8.34 本轮分析与展望
+
+1. **美股收盘定盘完成（第 5 轮 watchlist 项关闭）**：INX -0.22% / IXIC -0.22% / DJI -0.66%——"纪要中性消化 + 长端利率压制价值/金融"结构确认；**MU +4.06% 三连涨收 $1,088 为 10/8 09:30 A 股存储链（雅克科技/国瓷材料/华特气体）开盘强度的直接锚**；META -2.38% 领跌权重，ASML/TSM -1.6%/-2.1% 设备弱势延续。
+2. **霍尔木兹叙事拐点**：美方（Rubio）"open/失去控制"框架 + UKMTO 周度 12 艘遇袭（9/29–10/5，瞄准技术改进）构成**"流量修复、风险升级"的罕见组合**——Brent 站稳 100.78 的平衡态下，**保费（3–10%）与袭击频率取代流量成为主导变量**；卡塔尔 LNG 不可抗力 12 月到期为第二条腿。
+3. **金银破位延续**：SI 59.855（-2.82%）/ GC 4,126.75（-1.44%）均在 60/4,130 关键位下方——**明日 01:00（北京时间）$39B 10Y 拍卖为裁决点**：bid 偏弱 → 30Y 5.724%（24 年新高）上移 → SI 下看 59.23、GC 下看 4,118（Kitco 关键支撑）；拍卖强劲压低收益率 → 金银修复 60/4,130 窗口。
+4. **Isaias 确定性下调**：4a 通报"登陆前可能减弱 + 时间路径不确定性"取代前轮"周五 Cat 2 确定"——**Gulf 能源端定价（WTI 88.88 回升）不再 as firm**；但 50mph 增强 + 风场东向扩展，AL/FL 风暴潮警戒（6–10ft）仍有效；EP Hurricane Rachel 为分心变量。
+5. **A 股 09:30 开市前最终 briefing 不变**（第 5 轮 8.23）：PMI 50.1 + 1.2 万亿净投放 2000 亿 + 港股通恢复 + HSTECH 30→50 扩容 vs 港股假期 -1.96% + AH 溢价 125.79；LLY-InnoCare 合作为医药板块侧翼变量。
+
+### 8.35 本轮 Watchlist
+
+- **今日 09:30（北京时间）**：A 股节后首日——MU +4.06% 存储映射 + 科创 50 修复 + 半导体 AH 收敛 + 量能 1.5 万亿验证。
+- **今日 19:00（北京时间）**：诺贝尔文学奖揭晓——**官网核验后再写入**（Anne Carson / 残雪并列 10/1；往年旧稿勿采信）。
+- **明日 01:00（10/9 01:00 北京时间 / 10/8 13:00 ET）**：$39B 10Y 国债拍卖——金银 59.23/4,118 方向裁决点。
+- **10/9（周五）**：Isaias 基准情景登陆窗口（Cat 2 峰值，Mobile–Destin，存在减弱可能）+ JPM 盘后财报（Q3 银行股开局）+ 诺贝尔和平奖 17:00（Machado 领跑赔率）。
+- **10/29**：Lilly Q3 财报（10:00 ET）。
+- **持续追踪**：UKMTO 周度袭击节奏（12 艘/9/29–10/5 基准）、Rubio "海峡开放"后续表态、Able 是否坐沉（10 人失踪核查窗口）、SI 59.23 / GC 4,118 支撑、BTC 多源恢复（现 Gate.io 单源 $83,505.6）。
+
+---
+> 【本轮信息源】
+> - 腾讯 qt.gtimg.cn（美股 10/7 16:00–16:08 ET 收盘最终值，04:07 CST 抓取；道指 usDJI 符号）
+> - 新浪 hq.sinajs.cn（大宗商品 04:07 CST 抓取，Referer finance.sina.com.cn）
+> - https://api.gateio.ws/ （BTC Gate.io 现货 $83,505.6，04:13 CST；OKX 仍不可达）
+> - https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/ （04:10 CST 复验"尚未颁发"）
+> - https://m.washingtontimes.com/news/2026/oct/7/secretary-state-marco-rubio-iran-lost-control-strait-hormuz-despite （Rubio 口径 + UKMTO 9/29–10/5 12 艘 + WSJ 瞄准改进）
+> - https://www.nhc.noaa.gov/mobile/text/WTUS82-KTAE.html （Isaias Advisory 4a：50mph / Campeche 湾 / 登陆前可能减弱）+ https://www.nhc.noaa.gov （Hurricane Rachel / TD 20）
+> - https://www.turkishminute.com/2026/10/07/bulgaria-ends-search-for-crew-of-turkish-operated-ship-sunk-in-drone-attack/ + https://www.euronews.com/video/2026/10/06 + https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/07/ （3 艘土耳其关联船 / Able 燃烧预计下沉 / 10 人失踪 / 保总统归咎）
+> - https://pharmaphorum.com/news/lilly-forges-335bn-alliance-chinas-innocare + https://investor.lilly.com/events/event-details/q3-2026-earnings-call （InnoCare $3.35B / Q3 财报 10/29）
+> - https://tradingnews.com/news/lly-reclaims-1200-usd-as-munjaro-and-zepbound-deliver-14b-usd-quarter （LLY 10/7 +4.10% $1,205.00）
+> - https://tradingnews.com/news/dow-sheds-539-points-sp-500-back-under-7800-nasdsaq-off-075-percent （10/7 早段：10Y 5.35% 2002 高位 / 30Y 5.724% 24 年新高 / STZ -5% 但 beat / PENG +17%）
