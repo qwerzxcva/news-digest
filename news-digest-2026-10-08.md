@@ -201,4 +201,103 @@
 - https://m.sohu.com/a/1081816288_122387568 、https://www.163.com/dy/article/L8LP3HS3051492LM.html （残雪领跑赔率）
 - https://www.accuweather.com/en/hurricane/tropical-storm-isaias-forms-in-gulf-to-become-atlantics-first-hurricane-before-striking-us/1942566 （Cat 2 / 6–10 ft 风暴潮 / StormMax 15 ft / 100 年最晚首飓风）
 - https://mexc.co/crypto-pulse/article/fed-minutes-preview-164790 、https://www.federalreserve.gov/newsevents/2026-october.htm （FOMC 日历 + 点阵图 4.10% + 10 月加息概率低双位数）
-- https://www.coindesk.com/price/bitcoin （BTC ~$84.27K 快照）
+|- https://www.coindesk.com/price/bitcoin （BTC ~$84.27K 快照）
+
+---
+
+## 第 2 轮更新（10/8 01:41 北京时间 · 行情快照 + 诺奖文学奖揭晓确认）
+
+### 8.5 行情核验快照（01:41 · 腾讯 + 新浪 API）
+
+**美股（10/7 13:41 ET 盘中，腾讯 API）**：
+| 标的 | 最新 | 涨跌 |
+|------|------|------|
+| INX（标普 500） | 7,800.84 | -0.23% |
+| IXIC（纳指） | 27,496.02 | -0.38% |
+| MU 美光 | **$1,084.40** | **+3.71%**（连续第二日大涨） |
+| AAPL | $336.07 | +0.73% |
+| AMZN | $258.74 | +0.96% |
+| NVDA | $237.01 | -0.93% |
+| META | $725.01 | -1.88% |
+| TSLA | $376.97 | -0.98% |
+| ASML | $1,808.01 | -1.42% |
+| TSM | $473.92 | -1.74% |
+| GOOGL | $347.44 | -0.07% |
+| MSFT | $529.31 | ~持平 |
+| AMD | $644.17 | -0.81% |
+| JPM | $329.34 | -0.59% |
+
+> 注：INX 距 10/6 纪录 7,818.93 仅 18pt，盘中一度逼近纪录后回落。
+
+**大宗商品（新浪 hf 期货 API 01:41 CST）**：
+| 品种 | 最新 | 前结 | 变动 |
+|------|------|------|------|
+| WTI CL | **$88.191** | $89.44 | -1.39% |
+| Brent OIL | **$99.910** | $100.58 | -0.67%（跌破 100） |
+| COMEX 黄金 GC | **$4,133.68** | $4,187.10 | -1.27%（守 4,130） |
+| COMEX 白银 SI | **$60.031** | $61.589 | -2.53%（仍在 60 上方） |
+
+> Brent 跌破 100 关口为今日新变化（此前连续两日守住 100）。WTI 同步走弱至 $88.19。
+
+**A 股 / 港股**：节前最后交易日 9/30 收盘数据不变（上证 3,842.19 / 深成 12,887.62 / 创业板 3,135.28 / 科创 50 1,530.01）；港股 10/7 收盘 HSI 24,130.50（-0.62%）、HSTECH 4,194.49（-0.68%）。**10/8 09:30 A 股节后首日重开**。
+
+**BTC**：OKX 不可达，CoinGecko 显示 ~$83,735（-0.5% 24h），Bybit 报 $83,346。三源未完全交叉核验，**低置信**。
+
+### 8.6 诺贝尔文学奖 2026 揭晓（【重大更新】）
+
+- **官方确认**：匈牙利作家 **László Krasznahorkai（克拉斯诺霍尔卡伊·拉斯洛）** 获 2026 年诺贝尔文学奖。
+- **授奖词**："for his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art"（以其引人入胜且充满远见的全套作品，在末世恐怖中 reaffirms 艺术的力量）。
+- **瑞典学院常任秘书 Mats Malm 宣读**，评选委员会成员 Steve Sem-Sandberg 补充："his artistic gaze which is entirely free of illusion, and which sees through the fragility of the social order combined with his unwavering belief in the power of art."
+- **背景**：71 岁，1954 年生，匈牙利 Gyula 市人；代表作《撒旦探戈》《抵抗绝望的人》《战争与战争》；2015 年获国际布克奖；继 2002 年 Imre Kertész 之后第二位匈牙利籍诺奖文学奖得主。
+- **赔率回顾**：赛前残雪以 10/1 领跑赔率榜，村上春树第二（10-07 期），实际结果为匈牙利作家——赔率模型失灵。
+- **奖金**：1,200 万瑞典克朗（约 $1.21M），因诺奖 125 周年上调 9%。
+- **后续轮次须在 nobelprize.org 官网核验 2026 页面后再确认**（当前官网 lists 页面仍显示 "has not been awarded yet"，可能因缓存尚未更新；多家权威媒体 AP/Reuters/Yahoo News 已确认结果）。
+
+### 8.7 FOMC 会议纪要（10/7 14:00 ET 已发布）
+
+- **发布时间**：2026 年 10 月 7 日 14:00 ET（北京时间 10 月 8 日 02:00）——**已发布**。
+- **核心内容**：纪要基于 9/15-16 会议，当时非农数据仍为 16.2 万（未下修），通胀压力持续。16 位官员预期年内至少再加息一次（点阵图中值 4.10%）。但**纪要发布后市场对 10 月加息概率已骤降至约 14%**（受 9/29 公布非农仅 +2.9 万、失业率升至 4.2% 影响）。
+- **关键判断**：纪要描述的是一个"偏鹰派但已被数据超越"的框架——9 月会议时委员们担心通胀粘性，但周五非农爆冷后，市场定价已转向"10 月按兵不动"。
+- **10/27-28 下次议息**：CME FedWatch 显示维持利率概率 83.9%（截至 10/2 数据）。
+- **对今日 A 股影响**：纪要鸽派落地（市场定价已消化）→ 短期情绪偏中性，不会形成剧烈方向冲击。
+
+### 8.8 霍尔木兹海峡（217 天封闭）
+
+- 截至 10/1，海峡已封闭 **217 天**（自 2026/2/28 起）；10/2 新增 2 艘油轮遭不明弹体袭击（UKMTO 确认），10/1 另有 1 艘油轮遇袭起火。
+- IMF PortWatch 口径：日均通行量仅 ~4.4 艘（战前 84.8 艘/日），**约 5% 正常水平**。
+- "油轮换油轮"政策持续生效，但攻击事件升级表明风险溢价仍在累积。
+- Brent 跌破 100 说明市场短期风险偏好改善，但若攻击频率上升可能再度推升。
+
+### 8.9 飓风 Isaias 最新（Cat 2 升级）
+
+- NHC 10/7 23:00 CST 已升级 Isaias 为 **Category 2 飓风**（110 mph 风速）；预测 10/8（周四）快速增强，**10/9（周五）以 Cat 2 强度登陆 Mobile–Destin 一线**。
+- 若登陆成功，将是**大西洋季 100 年来最晚首个飓风登陆美国**。
+- 佛州 DeSantis 已对 25 县宣布紧急状态；AccuWeather 预测风暴潮 6-10 英尺（StormMax 15 英尺）；降雨 3-6 英寸局部 10 英寸。
+- BSEE 数据：Gulf 原油停产 9.24% + 6 座炼厂 + 50% 全国炼能受影响——若周五登陆，WTI 供给扰动将加剧。
+
+### 8.10 黑海保加利亚事件（NATO Article 4 未启动）
+
+- 搜救终止：Alfa Watan 船员无痕迹，官方决定不再恢复搜救（The New Voice of Ukraine 10/7）。
+- **保加利亚总理 Rumen Radev 明确：目前无援引 NATO 第四条或第五条的理由**（因事件发生在 EEZ 而非领海，属于"特殊法律地位"水域）——与 earlier 报道的"充分理由"有所出入，**以总理公开声明为准**。
+- 泽连斯基归咎俄方，俄方称已救援船员；叙事冲突未解。
+- 欧盟表态：称为"不可接受的攻击"。
+
+### 8.11 今日 Watchlist（续）
+
+- **10/8 09:30**：A 股节后首日开盘——北向资金 + 科创 50 修复 vs 半导体 AH 联动。
+- **10/9 01:00**：$39B 10Y 国债拍卖结果。
+- **10/9（周五）**：Isaias 登陆窗口 + JPM 盘后财报。
+- **10/9 17:00**：诺贝尔和平奖揭晓（奥斯陆 11:00 CEST）——**Trump 被提名但非热门，Maria Corina Machado 领跑赔率**。
+- **10/12**：诺贝尔经济学奖 + 双 11 京东现货开抢。
+
+---
+
+> 【本轮信息源】
+> - 腾讯 qt.gtimg.cn（美股 10/7 13:41 ET 盘中，01:40 CST 抓取）
+> - 新浪 hq.sinajs.cn（大宗商品 01:41 CST 抓取）
+> - https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/ （文学奖官网核验状态）
+> - AP/Yahoo News/Brussels Times（诺贝尔文学奖 2026 获奖者 Krasznahorkai 确认）
+> - https://www.reuters.com （FOMC 纪要发布日期）
+> - https://straits.live （霍尔木兹海峡实时状态）
+> - https://www.accuweather.com/en/hurricane/tropical-storm-isaias-forms-in-gulf-to-become-atlantics-first-hurricane-before-striking-us/1942566 （Isaias 路径）
+> - https://english.nv.ua/nation/bulgaria-ends-search-for-crew-of-drone-struck-alfa-watan-50647999.html （搜救终止 + 四条磋商口径）
