@@ -1944,3 +1944,98 @@
 - https://qz.com/groq-nvidia-deal-stockholder-lawsuit-engineers-100526 （QZ 10/5：Groq 工程师起诉 $20B 交易绕过股东投票 / $17B 许可 + $3B RSU / BlackRock 等四基金利益冲突，Delaware Chancery 2026-1291）
 - https://cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html （CNBC 10/5： lawsuit 核心指控 + 诉讼方/被告身份 / Groq 回应）
 - https://www.okx.com/api/v5/market/ticker?instId=BTC-USDT （21:26 重测：超时不可达，三源维持不可用）
+## 第 27 轮更新（2026-10-07 22:07 北京时间 · 21:30 美股开盘后至 22:04 新进展）
+
+### 27.1 【重大】诺贝尔化学奖 2026 正式揭晓
+- **官方公告（NobelPrize.org）**：皇家科学院宣布将 2026 年诺贝尔化学奖授予 **Henri B. Kagan** 和 **Kenso Soai**，「发现不对称有机合成中的非线性效应与自催化」。
+- 由皇家科学院秘书长 Ellen Moons 教授于 10/7 北京时间 17:45 左右正式宣布。
+- **【修正/补全】**：此前 23.4 已指出化学奖官网 2025 为 Kitagawa/Robson/Yaghi（MOF），物理奖 2026 为 Francis Halzen（IceCube）。本轮坐实 Kagan + Soai。
+- **与 22.3「官方仍 2025 Krasznahorkai」的区别**：22.3 是针对文学奖的；化学奖官网今日正式官宣 Kagan + Soai，非预生成/旧稿。
+- 附：诺贝尔奖官方页面已更新 https://nobelprize.org/prizes/chemistry/2026/summary/
+
+### 27.2 期货速报（22:04 新浪 hf 实时核验）— 金银反弹后震荡、Brent 站稳 101.8+【本轮主事件】
+| 品种 | 最新 | 前结 | 日内高 / 低 | 较前结 | 对比 21:25（26.1） |
+|------|------|------|-------------|--------|-----------------|
+| WTI CL | $89.937 | $89.440 | $90.980 / $89.330 | +0.56% | 90.441→89.937（-0.5%） |
+| 布伦特 OIL | **$101.836** | $100.580 | **$102.590** / $100.760 | +1.2% | 102.111→101.836（-0.3%） |
+| COMEX 黄金 GC | **$4,117.97** | $4,187.10 | $4,197.80 / $4,091.20 | **-1.6%** | 4,113.74→**4,117.97（小幅上修）** |
+| COMEX 白银 SI | **$59.731** | $61.589 | $61.845 / $59.230 | -3.0% | 59.883→59.731（-0.3%，逼近 60） |
+
+- **黄金 4,118 守稳**：21:25 的 4,113.74 已小幅反弹至 4,117.97，日内低点 4,091.20 已回升近 30 美元；4,100 整数位获得支撑，但距日内高点 4,197.80 仍有 1.9% 差距，日内振幅 -2.5% 结构未变。
+- **白银 59.73 仍低于 60**：较 21:25 的 59.88 小幅回落，60 关口收复尚未完成；距日内低点 59.23 回升约 0.5 美元。
+- **Brent 101.8+ 维持高位**：前结 100.580，日内最高 102.590，当前 101.836，盘中多次触碰 102 关口后回落至 101.8 附近；**Isaias 风暴溢价 + 胡塞袭击沙特两处机场（Najran/Jizan，3 轻伤）** 是高位背后的双驱动。WTI 89.94 维持前结上方但较 21:25 回撤 0.5%。
+- **EIA WPSR 尚未公布（22:30 CST 释放）**：27 轮暂不纳入；若库存超预期下降将推动 Brent 102.35 再攻。
+
+### 27.3 美股开盘（21:30 CST = 09:30 ET）— 高开低走、S&P 日内转跌、AI 科技股领跌【实时】
+腾讯行情 API（timestamp 2026-10-07 10:03:59 ET / 22:03 CST）：
+| 指数/个股 | 最新 | 涨跌 | 较昨日收盘 |
+|-----------|------|------|-----------|
+| 标普 500 INX | 7,774.48 | -44.45 (-0.57%) | 前收 7,818.93（10/6 新高） |
+| 纳斯达克 IXIC | 27,396.72 | -203.17 (-0.74%) | 前收 27,599.79 |
+| 道指 DJI | 51,003.98 | -517.30 (-1.00%) | 前收 51,521.28 |
+| AAPL | 335.29 | +0.50% | 333.63→335.29 |
+| NVDA | 238.68 | -0.23% | 239.24 |
+| META | 723.05 | **-2.14%** | 738.88 |
+| GOOGL | 345.91 | -0.51% | 347.68 |
+| MSFT | 527.27 | -0.38% | 529.30 |
+| TSLA | 376.49 | **-1.10%** | 380.68 |
+| AMZN | 254.89 | -0.55% | 256.29 |
+| AMD | 637.67 | **-1.81%** | 649.42 |
+| MU | 1,034.63 | -1.05% | 1,045.56 |
+| JPM | 326.48 | -1.45% | 331.28 |
+| ASML | 1,799.46 | **-1.89%** | 1,834.10 |
+| TSM | 472.81 | **-1.97%** | 482.30 |
+
+- **早盘特征**：标普/纳指在 10/6 收盘新高位置（7,818.93/27,599.79）之后，21:30 开盘即承压下行；三大指数均翻绿，科技 / 半导体领跌（TSM/ASML/AMD/MU 均 -1.8%~2%）。
+- **驱动**：①30Y 美债收益率仍处 5.70% 以上历史高位（Reuters 10/7 晨间 5.70%）；②Brent 重返 $100+；③Meta 盘中反应 STZ Q2 财报 -5% 的连锁恐慌情绪；④「利好出尽」获利了结定价主导。
+- **明日 02:00 FOMC 纪要是关键变量**：Warsh 主席在 9/15-16 会议以 12-0 一致通过加息至 3.75%-4.00%（2023 年以来首次加息）；纪要预期呈现「比 12-0 更广的讨论」（Reuters 预览），若鹰派倾向坐实则隔夜金价/油价承压、科技股延续跌势；鸽派倾向则今日跌幅有望收复。
+
+### 27.4 【新增】胡塞「拂晓打击」多源交叉 — 沙特 Najran / Jizan 机场中弹、3 轻伤、利雅得上空爆炸
+- **The National / AP 交叉（10/7 12:57 CST 时间戳）**：沙特民航总局确认 Najran 和 Jizan 两处机场受损，3 人轻伤；胡塞军事发言人 Saree 称发射弹道导弹和无人机攻击**利雅得 King Khalid 国际机场** + 三座军事营地（Jizan Dagharir / Asir Aakifah / Jizan Al-Mawsim），伤亡数十人（未独立核实）。
+- **Dawn 报道 10/7**：Houthi 声称攻击利雅得机场和阿美阿美（Aramco）炼油厂；沙特联军拦截了朝向 Khamis Mushait 空军的弹道导弹；Houthi 卫生部称沙特空袭 Hajjah 省致一家 6 人死亡（含 4 名儿童）。
+- **【与 24.5「胡塞 10/7 亚丁机场」的增量】**：24.5 仅录亚丁/开罗航班改航吉达；本轮补**Najran + Jizan 两处机场 + King Khalid 利雅得机场 + 三座军营**完整打击矩阵。
+- **对油价的边际影响**：若 Jizan/Dagharir 营地/机场受持续打击（靠近红海-波斯湾运输走廊），Brent 102.59 高位支撑进一步强化；反之若袭击限于军事设施无油储/炼化损，则油价以 Isaias 溢价为主轴。
+
+### 27.5 【新增】飓风 Isaias NHC Advisory 后续 + 美国国家飓风中心预警
+- **USA Today / Fox10 TV（10/7 上午）**：NHC 于 10/7 凌晨命名 AL92 为热带风暴 Isaias；预计周四（10/8）增强为 **1 级飓风（75 mph / 65 knots）**，周五（10/9）强化为 **2 级飓风（110 mph / 95 knots）**；登陆窗口为周五下午至夜间，路径从东南路易斯安那至佛罗里达狭长地带（Mobile–Pensacola–Destin 区间）。
+- **降雨预报**：登陆区 8–12 英寸（局部可达 10–12 英寸），周边 4–8 英寸；风暴潮受轨迹不确定性影响大，Mobile Bay / Pensacola Bay 风险突出。
+- **能源关键数据（Reuters via tradersagency + CNBC 交叉）**：墨西哥湾贡献美国 **15% 原油 + 5% 天然气**；受影响潜在炼厂 **6 座**；墨西哥湾炼油产能占全国 **~50%**；**BSEE 数据截至周二上午已显示 9.24% 墨西哥湾原油停产**；封港预警已触发。
+- **轨迹分歧**：NHC forecaster Papin 明确指出 AI 模型偏东、物理模型偏西，最新轨迹较上一周期**向东偏移**；72 小时预报误差范围仍大。
+- **【与 26.2 的增量】**：26.2 已录 Advisory #3 路径与 9.24% 停产；本轮补 **USA Today / Fox10 TV 公众预警口径** + **8–12 英寸降雨细化** + **风暴潮风险具体海湾（Mobile Bay / Pensacola Bay）**。
+
+### 27.6 BTC
+- OKX 22:04 重测仍无响应（三源维持不可达）；沿用 **~$85.9–86.1K** 区间，10/8 恢复后交叉。
+
+### 27.7 第 27 轮分析
+1. **诺贝尔化学奖 Kagan + Soai 正式坐实**：不对称合成非线性效应 + 自催化，是手性化学领域的里程碑成果（与 2024 化学奖 Baker/Hassabis/Jumper 的蛋白质计算设计形成「从分子到系统」的互补格局）。A 股「化药 / 精细化工」板块 10/8 首诊有望受益于主题催化，但需区分「真业务相关」与「蹭热点概念」。
+2. **金银 4,100 守住 + 白银 60 未收复**：GC 4,118 / SI 59.73，较 21:25 的 4,114 / 59.88 略有分化（金反弹 +4 / 银回撤 -0.15）。明日 02:00 FOMC 纪要是决定性变量——鹰派则 GC 再度测试 4,050/4,000，鸽派则金银共振反弹、SI 收复 60。**A 股黄金股 10/8 首日风险敞口仍是「纪要方向」而非「结构底部」**（WGC 8 月 39t 是长锚，不是短线托底）。
+3. **Isaias + 胡塞双重供应风险叠加**：Brent 102.59 高位已计价 storm + Houthi 双因子；22:30 EIA WPSR 若库存超预期降则 Brent 再试 102.35→105 区间；若供应扰动（storm 登陆炼油走廊）则 102 成为支撑。A 股 10/8 油气股 / 石化板块首诊是外部避险溢价的直接传导。
+4. **美股开盘即回调**：S&P 7,774.48（-0.57%）/ Nasdaq 27,396.72（-0.74%）vs 10/6 收盘新高；TSM/ASML/AMD 领跌半导体，TSLA -1.10%、META -2.14% 情绪偏弱。明日 FOMC 纪要是「获利了结 vs 情绪修复」的分水岭——纪要偏鹰则继续回调，鸽派则反弹收复今日跌幅。
+5. **A 股 10/8 首诊框架**：①外盘弱（S&P/NQ 回调 + 30Y 5.70%）；②油气高位 + 黄金 4,100 支撑；③港股恒指假期涨幅（前收 24,280 +1% 10/6，10/7 转跌 -0.62% 至 24,130）；④政策对冲（1.2 万亿逆回购 + 政治局五中全会）；⑤诺贝尔化学奖催化精细化工。**首诊预计「震荡偏弱 → 午后企稳」格局，关注北向资金首笔方向 + 油价/EIA WPSR 联动。**
+
+### 27.8 第 27 轮 Watchlist
+- **今日 22:30 CST**：EIA WPSR 周报（原油库存）+ Isaias 飓风观察预警（NHC Advisory 4）→ Brent 102.35 再攻 / 破裂。
+- **今日 22:04 CST（本轮核验）**：黄金 4,118 守住 / 白银 59.73 逼近 60；Brent 101.8 高位；TSM/ASML -1.9% 领跌美股。
+- **明日 02:00**：FOMC 9 月纪要（Warsh 12-0 加息 25bp + 「更广讨论」预览 + 10Y 5.33% / 30Y 5.70%）+ $39B 10Y 拍卖。
+- **明日 04:00**：PEP / DAL / BMO Q3 + LEVI / APLD / RGP / CANOF 盘后。
+- **10/8 01:00 CST（10/7 13:00 ET）**：微软 Windows + Surface 开发者活动（San Francisco，主题「本地 AI 如何塑造 PC 下一章」；Jensen Huang 出席；Snapdragon X2 Plus 驱动的新 Surface Pro 12 / Laptop 13 + Surface Mouse 已公布 MSRP $1,149.99 / $1,199 / $79.99，10/13 上市；RTX Spark / Surface Laptop Ultra 为潜在主角）。
+- **明日 19:00 CST**：诺贝尔文学奖（官网为准；23.4 已修正时间；物理奖 Halzen/IceCube 已坐实）。
+- **10/8**：A 股节后首交易日 + 1.2 万亿逆回购落地；BTC 三源恢复交叉；港股通重开；MCX 印度基差。
+- **10/13**：JPM / ASML / TSMC Q3 财报。
+- **持续追踪**：Isaias 周五（10/9）登陆点不确定性（9.24% 已停产 + 6 炼厂 + 50% 全国产能）→ 若 Friday 飓风登陆墨西哥湾核心炼油区，Brent 102→105 概率上升；胡塞 Najran/Jizan/King Khalid 机场 + 三营地伤亡多源核实；Google × Constellation 核电协议（890MW PJM / $4.3B 投资）后续；中美核设施互访 + AI 事件通报后续（11 月深圳 APEC 节点）。
+
+---
+
+## 附录：原始信息源（第 27 轮补充）
+- hq.sinajs.cn/list=hf_CL,hf_OIL,hf_GC,hf_SI （新浪 hf 期货 API 22:04：WTI 89.937 / Brent 101.836 / GC 4,117.972 / SI 59.731；Referer 头）
+- http://qt.gtimg.cn/q=us^DJI,us.IXIC,us.INX,usAAPL,usNVDA,usMSFT,usGOOGL,usMETA,usAMZN,usTSLA,usAMD,usMU,usJPM,usASML,usTSM （腾讯 22:03 实时：IXIC 27,396.72 -0.74% / INX 7,774.48 -0.57%；TSLA -1.10% / META -2.14% / TSM -1.97%，timestamp 2026-10-07 10:03:59 ET）+ http://qt.gtimg.cn/q=us.DJI （22:08 复核：道指 51,003.98 -1.00%，前收 51,521.28）
+- https://www.nobelprize.org/prizes/chemistry/2026/summary/ （NobelPrize.org 官方：Kagan + Soai 2026 化学奖，不对称有机合成非线性效应与自催化）
+- https://www.usatoday.com/story/news/weather/2026/10/07/tropical-storm-isaias-forms-hurricane-updates/92122394007/ （USA Today 10/7：Isaias 命名 / 周四 1 级 / 周五 2 级 110 mph / 登陆 Mobile–Destin 区间 / 8-12in 降雨）
+- https://www.fox10tv.com/2026/10/07/isaias-taking-aim-northern-gulf-what-mobile-pensacola-can-expect/ （Fox10 10/7：NHC cone 覆盖 Mobile-Pensacola / 风暴潮风险提示 / 周五午后登陆）
+- https://tradersagency.com/blog/nhc-upgrades-gulf-system-to-tropical-storm-isaias-expects-hurricane-to-approach-northern-gulf-coast-friday （NHC Advisory #3 路径 + Reuters 能源数据）
+- https://www.thenationalnews.com/news/gulf/2026/10/07/houthis-claim-dawn-drone-and-missile-strikes-on-saudi-and-yemeni-airports/ （The National 10/7：胡塞自称袭击利雅得 King Khalid 机场 + Najran/Jizan 机场 3 轻伤 + 三座军事营地）
+- https://thehill.com/homenews/ap/ap-international/ap-houthis-strike-saudi-targets-israel-marks-oct-7-anniversary-and-other-mideast-developments （AP 同题多源转载）
+- https://economymiddleeast.com/news/stock-market-today-sp-500-gains-0-58-percent-nikkei-falls-0-76-percent-dax-drops-0-89-percent-as-oil-yields-rise-ahead-of-fed-minutes （EconMiddleEast 10/7：S&P 7,818.95 +0.58% / Nikkei -0.76% / DAX -0.89%；Brent $101.58 / WTI $90.22）
+- https://www.reuters.com/business/wall-st-futures-slip-yields-oil-rebound-fed-minutes-focus-2026-10-07/ （Reuters 10/7 晨间：期货 -0.79% / 30Y 5.70%；Brent 重返 $100+）
+- https://crn.com/news/ai/2026/microsoft-debuts-new-surface-pro-laptop-and-ai-powered-surface-mouse （CRN 10/7：Surface Pro 12 / Laptop 13 于 10/13 上市 / Snapdragon X2 Plus / MSRP $1,149.99 / $1,199；Surface Mouse $79.99）
+- https://www.okx.com/api/v5/market/ticker?instId=BTC-USDT （22:04 重测：超时不可达，三源维持不可用）
