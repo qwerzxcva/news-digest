@@ -732,3 +732,96 @@
 > - https://weather.com/2026/10/07/storms/hurricane/state-of-emergency-in-florida-as-isaias-forecast-to-become-gulf-hurricane + https://www.pnj.com/story/weather/hurricanes/2026/10/07/ （FL 25 县紧急状态 / 飓风 + 风暴潮警戒生效）
 > - https://stock.jrj.com.cn/2026/10/06170858625350.shtml （A 股节后首日盘前 Mapping：光通信/PCB/存储主线分化逻辑）
 
+## 第 8 轮更新（10/8 05:18 北京时间 · 10Y 拍卖落地 + 诺奖文学奖官网仍"尚未颁发" + Isaias 加速增强中 + 黑海/霍尔木兹跟踪）
+
+### 9.1 行情核验快照（05:18 · 腾讯 + 新浪 API）
+
+**大宗商品（新浪 hq.sinajs.cn，05:18 CST — 美盘夜盘延续，与 04:42 基本持平）**：
+|| 品种 | 最新 | 前结 | 变动 |
+||------|------|------|------|
+|| WTI CL | **$88.862** | $89.440 | -0.64%（小幅回落）|
+|| Brent OIL | **$101.339** | $100.580 | **+0.75%（突破 101 关口！）**|
+|| COMEX 黄金 GC | **$4,131.695** | $4,187.100 | -1.33%（守 4,130，距关键支撑 4,118 仅 13pt）|
+|| COMEX 白银 SI | **$59.960** | $61.589 | **-2.64%（仍在 60 下方，两月低位区）**|
+
+> Brent 突破 101 为今夜新变化（此前 10/7 日内高点 102.59，本夜稳定站上 101），霍尔木兹袭击节奏加速（Day 221 周度 12+ 艘）+ 卡塔尔 LNG 不可抗力延长至 12 月初共同推升油价。金银维持 4,130/60 关键位上方博弈，10Y 拍卖结果已公布（见 9.2）。
+
+**BTC（Gate.io 现货，05:18 CST）**：**$83,463.9（-2.41% 24h）**，24h 区间 $82,765.9–$85,694.3。OKX/Kraken/CoinGecko 仍不可达，**单源中置信**。
+
+**A 股 / 港股**：9/30（A 股）与 10/7（港股）前收盘不变。上证 3,842.19 / 深成 12,887.62 / 创业板 3,135.28 / 科创 50 1,530.01；HSI 24,130.50（-0.62%）/ HSTECH 4,194.49（-0.68%）。**10/8 09:30 A 股节后首日重开（距 4h12m）**。
+
+**美股隔夜期货（CNBC/CME 05:18 口径）**：
+- 标普期货 **+0.15%**（INX 期货 ~7,813，逼近 10/6 纪录 7,818.93）
+- 纳指期货 **+0.12%**（IXIC 期货 ~27,571）
+- 道指期货 **+0.08%**（DJI 期货 ~51,220）
+- 10Y 美债收益率 **5.30%**（拍卖后微升 1bp，5.300% 为 2000 年以来最高）
+- 30Y 美债收益率 **5.69%**（维持 24 年新高）
+
+> 美股期货微涨，显示市场对 10Y 拍卖结果消化中性偏乐观（bid-to-cover 2.77 > 6 月均值 2.54，间接投标人 80.34% 显示外资需求强劲）。A 股开盘前情绪锚：MU $1,088 +4.06% 存储链映射不变。
+
+### 9.2 【新增】10Y 国债拍卖结果公布（美东 10/7 13:00，北京时间 10/8 01:00）
+
+- **$39B 9 年 10 个月期国债拍卖**：
+  - **中标收益率（High Yield）：5.300%**（2000 年 11 月以来最高，此前 2000 年 11 月 5.865%）
+  - **Bid-to-Cover 比率：2.77**（高于 6 个月均值 2.54，显示需求稳健）
+  - **间接投标人占比：80.34%**（外资 + 机构，包括外国央行，需求强劲）
+  - **直接投标人（Primary Dealer）：984M（2.5%）**（做市商需求偏弱）
+  - **SOMA（美联储）：926M（2.3%）**
+  - **非竞争性投标：334.6M**
+- **市场解读**：Morningstar / CNBC 报道"美国以 2000 年以来最高借贷成本发行 10 年期国债"——但 bid-to-cover 2.77 优于预期，说明需求端并非疲弱，而是**收益率中枢系统性上移**（term premium 扩张 + 财政赤字双重驱动）。10Y 收盘 5.30% 对金银形成持续压制（实际利率 2.90% YoY 高企），但对风险资产（股票）影响中性——期货微涨印证"定价已充分消化"。
+- **对今日 A 股影响**：10Y 5.30% 维持高位 → 北向资金短期谨慎，但"需求不弱"结构减轻抛售压力。**验证点：09:30 集合竞价北向开盘方向**。
+
+### 9.3 诺贝尔文学奖（05:15 官网复验，仍"尚未颁发"）
+
+- **NobelPrize.org 列表页**（05:15 复抓）维持："**The Nobel Prize in Literature 2026 has not been awarded yet. It will be announced on Thursday, 8 October 2026, 13:00 CEST at the earliest**"（= **北京时间今日 19:00**）。
+- **2025 文学奖**：László Krasznahorkai（匈牙利，1954 年生，代表作《撒旦探戈》《抵抗绝望的人》），授奖词"for his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art"——**注意：这是 2025 年度，不是 2026**。本轮 web_search 大量混入往年旧稿（Krasznahorkai=2025，Jon Fosse=2023，Han Kang=2024），**均已判定不采信**；2026 结果待 19:00 官网核验。
+- **赛前赔率（Ladbrokes / Nicer Odds，10/7 口径）**：**Anne Carson（加拿大，1950 年生，诗人与essayist）与残雪 Can Xue（中国，1953 年生）并列 10/1 居首**；村上春树 14/1；Gerald Murnane、Thomas Pynchon 16/1。
+- **播报人**：新任常任秘书 **Ingrid Carlberg**（2026/6/1 接替 Mats Malm）首次宣读文学奖——**非第 2 轮误引的 Mats Malm**。
+
+### 9.4 飓风 Isaias 最新（NHC Discussion #5，预计周四 Cat 1 / 周五 Cat 2）
+
+- **NHC 第 5 号公告（10/8 04:00 CDT）**：Isaias 已**升级至热带风暴**（风速 ~60 mph，较昨日 40 mph 显著增强），中心位于 Campegche 湾北部、正快速向东北移动；预测**周四（今日）上午达 Cat 1、周五早间峰值 110 mph（Cat 2）**登陆 Mobile, AL–Pensacola, FL 一线；若 Friday 达成 Cat 2 强度登陆，将**并列 1905 年以来大西洋季最晚首个飓风登陆**纪录。
+- **BSEE 口径**：Gulf 原油停产 **9.24%** + 6 座炼厂 + 50% 全国炼能受影响——周五若 Cat 2 登陆，WTI 供给扰动加剧（当前 WTI $88.86 即预定价）。
+- **AccuWeather StormMax**：风速 100–120 mph + 风暴潮 6–10 ft（StormMax 15 ft）；降雨 3–6 in 局部 10 in。
+- **佛州 25 县紧急状态**已生效（DeSantis 行政令）；AL / MS / LA / FL Panhandle 飓风 + 风暴潮警戒均已发布。
+
+### 9.5 霍尔木兹 Day 222 + Fars 报 IRGC 5 天 7 艘
+
+- **UKMTO 周度口径（9/29–10/5）**：12 艘油轮遇袭（含 IRGC 驱离 1 艘 + 无人机掉入烟囱 1 艘）；**10/7 卡塔尔以北 51nm 多弹命中伤亡** + **10/8 今日海峡内 1 艘油轮起火** = 周度袭击**≥14 艘**，节奏较 9 月全月（29 艘）持平。
+- **Fars 通讯社（10/7）**：IRGC 海军**5 天内打击 7 艘"违规"油轮**（含 Al FUNTAS、KAZIMAH III、SINBAD、MERSIN PROSPERITY、AL RUWAIS 等科威特/阿联酋船只）——伊方叙事："美国封锁合法，伊朗有权反击"。
+- **Rubio 口径（雅典 10/7）**："海峡开放，伊朗已失去控制"——与 Fars 周度 12–14 艘袭击数据构成**结构性背离**：美方指"官方政策失效"，伊方指"战术性升级"；Brent $101.34 站稳即反映市场已定价"流量修复 + 风险升级"双驱动。
+
+### 9.6 黑海保加利亚（无新增外交进展）
+
+- 自 Round 7（搜救终止 + 保总理 Radev"无第四/五条理由"）后**无新增外交表态**。Able 燃烧预计下沉（Euronews 10/7 口径），Alfa Watan 10 人失踪（Maritime.bg / Turkish Minute 10/7）——**事实核查窗口 10/8–10/9 仍在**。
+- 泽连斯基警告"莫斯科准备更大规模袭击"（Fox News 10/7）——Dranganfly 专家 Cameron Chell 解析 Geran-4 + Maran 联合打击致沉技术（水下无人艇 + 空中无人机协同）；北约 Article 5 讨论升温（保总统 Iotova "充分理由"），但**政府口径未变**。
+
+### 9.7 本轮分析与展望
+
+1. **10Y 拍卖 5.30% 高于预期但未引发恐慌**：bid-to-cover 2.77 稳健（间接投标人 80.34%）、美国以 2000 年以来最高借贷成本发债但需求不弱——**term premium 系统性扩张确认**，30Y 5.69% 高位为持续性特征而非脉冲。金银（GC 4,131.7 / SI 59.96）在 4,130/60 双支撑上方窄幅震荡，**下一裁决点为今日 19:00 诺奖文学奖揭晓后的风险情绪变化**。
+2. **Brent $101.34 突破 101 是今夜最重要商品信号**：霍尔木兹周度 14+ 艘袭击节奏（UKMTO + Fars 双源交叉）+ 卡塔尔 LNG 不可抗力至 12 月初 + Isaias 周五 Cat 2 登陆 Gulf 供给扰动三重叠加，**Brent 上探 102.59（日内高点）概率上升**；WTI $88.86 同步跟涨。
+3. **A 股 09:30 节后首日"三重共振"**：① PMI 50.1 转正 + 央行 1.2 万亿净投放 2000 亿 + 港股通恢复；② MU $1,088 +4.06% 存储链映射 + HSTECH 30→50 扩容（机器人/AI 硬件入池）；③ 10Y 5.30% 高位 + 港股假期 -1.96% + AH 溢价 125.79。**验证点：北向集合竞价 + 科创 50 修复 vs 半导体 AH 收敛 + 量能能否至 1.5 万亿+**。
+4. **Isaias 基准情景周五 Cat 2 登陆 Mobile–Pensacola**：NHC Discussion #5 修正为"周四 Cat 1、周五 110 mph Cat 2"（较前轮"周五 Cat 2"更精确），**登陆前减弱情景仍存在**；BSEE Gulf 停产 9.24% + 6 炼厂为硬约束，**WTI $88.86 已有预定价**。
+5. **诺奖文学奖 19:00 揭晓**：官网仍"尚未颁发"，Anne Carson / 残雪并列 10/1 领跑赔率；**不提前宣布结果**，待官网核验后再写入。
+
+### 9.8 本轮 Watchlist
+
+- **今日 09:30（北京时间）**：A 股节后首日——PMI 50.1 + 1.2 万亿净投放 + 港股通恢复 + MU 存储链映射 + HSTECH 扩容 + 量能 1.5 万亿验证。
+- **今日 19:00（北京时间）**：诺贝尔文学奖揭晓——**官网核验后再写入（Anne Carson / 残雪并列 10/1 领跑；往年旧稿勿采信；2025=Krasznahorkai 已确认）**。
+- **10/9（周五）**：Isaias 登陆窗口（Cat 2 峰值，Mobile–Pensacola，存在减弱可能）+ JPM 盘后财报（Q3 银行股开局）+ 诺贝尔和平奖 17:00（Machado 领跑赔率）。
+- **10/12**：诺贝尔经济学奖 + 双 11 京东现货开抢（晚 8 点）。
+- **持续追踪**：UKMTO 日度袭击节奏（周度 14+ 艘基准）、Isaias 周五前 aircraft reconnaissance 数据（结构强度验证）、SI 59.23 / GC 4,118 Kitco 支撑、BTC 多源恢复（Gate.io 单源 $83,463.9）。
+
+---
+> 【本轮信息源】
+> - 腾讯 qt.gtimg.cn（05:18 CST 抓取；美股期货及前收数据）
+> - 新浪 hq.sinajs.cn（大宗商品 05:18 CST 抓取，Referer finance.sina.com.cn）
+> - https://api.gateio.ws/ （BTC Gate.io 现货 $83,463.9，05:18 CST）
+> - https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/R_20261007_2.pdf （10Y 拍卖结果：5.300% / 2.77 B/C / 80.34% 间接）
+> - https://www.morningstar.com/news/dow-jones/202610076122/us-pays-highest-borrowing-costs-for-10-year-notes-since-2000 （Morningstar：2000 年以来最高借贷成本）
+> - https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/ （19:00 揭晓前官网核验"尚未颁发"）
+> - https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPAT4+html/ （Isaias Discussion #5，10/8 04:00 CDT：TS→Cat1 Thu→Cat2 Fri）
+> - https://www.arabnews.com/middle-east/tanker-attacked-in-strait-of-hormuz-uk-maritime-agency-3004164 （10/8 UKMTO 海峡内油轮起火）
+> - https://telanganatoday.com/irans-irgc-hit-7-violating-oilers-in-hormuz-strait-in-5-days （Fars：IRGC 5 天 7 艘）
+> - https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike （泽连斯基"大规模袭击"警告）
+
