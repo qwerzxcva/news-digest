@@ -1792,3 +1792,82 @@
 - https://mezha.net/eng/news/20c83af1_north_korea_condemns （朝鲜谴责对台军售 + F-16V 首批 2 架 + 金正恩普京信）
 - hq.sinajs.cn/list=hf_CL,hf_OIL,hf_GC,hf_SI （新浪 hf 期货 API 20:04–20:05：WTI 89.772 / Brent 101.214 / GC 4147.512 / SI 60.489；Referer 头）
 - http://qt.gtimg.cn/q=hkHSI,hkHSTECH （腾讯 10/7 18:30 HKT 恒指 24,130.50 -0.62% 复核，与 23.1 一致）
+
+---
+
+## 第 25 轮更新（2026-10-07 20:55 北京时间 · 20:10 之后新进展）
+
+### 25.1 期货速报（20:45–20:46 新浪 hf 实时核验）— 金银急跌、双关键位失守【本轮主事件】
+| 品种 | 最新 | 前结 | 日内高 / 低 | 较前结 | 对比 20:04（24.1） |
+|---|---|---|---|---|---|
+| WTI CL | 90.251 | 89.440 | 90.610 / 89.330 | +0.9% | 89.772→90.251（+0.53%） |
+| 布伦特 OIL | 101.798 | 100.580 | 102.350 / 100.760 | +1.2% | 101.214→101.798（+0.58%） |
+| COMEX 黄金 GC | 4,094.71 | 4,187.10 | 4,197.80 / 4,093.70 | **-2.2%** | 4,147.512→4,094.712（**40 分钟 -1.27%**） |
+| COMEX 白银 SI | 59.368 | 61.589 | 61.845 / 59.230 | **-3.6%** | 60.489→59.368（**40 分钟 -1.85%**） |
+
+- **黄金失守 4,135 + 4,100 双关口**：4,135 下沿（19.x「4 连失守」/ 20.1 既定）被决定性跌破，4,100 整数失守（4,094.71 / 日内低 4,093.70）；较日内高 4,197.80 回撤 **-2.46%**。
+- **白银失守 60，下探 59.2**：19.2「59.97 低点拉回」之后本轮决定性跌破 60（日内低 59.230）；61.5–61.8 阻力维持压制。
+- **金银比走阔**：4,094.7 / 59.37 ≈ **68.97**（24.1 为 68.57；20.x 口径 68.37 基线）。
+- **油价续升**：Brent 101.798（日内高 102.35，102.35 为 20.1/23 既定日内高）/ WTI 90.251，20:04 以来两者各 +0.5% 以上；「胡塞 + Isaias 风暴 + Hormuz 9 遇袭」溢价维持（23.2 / 24.2）。
+- **美盘口径交叉**：Yahoo 6:41 ET GC=F $4,138.10；早盘现货（Reuters 0451 GMT）$4,138.34（-0.6%）/ 银 $60.79（-1.5%）→ 本轮急跌是美东上午 8:00–9:00 ET 的**新下跌腿**（期货 4,138→4,094 ≈ -1.1%，2 小时内），非早盘一次性回落。
+- **A 股 4 大指数 9/30 收盘（假期旧数据，预期内）**：上证 3,842.19 +0.31% / 深成指 12,887.62 -0.11% / 创业板 3,135.28 -0.23% / 科创50 1,530.01 -2.51%（20:45 复核，时间戳 20260930）。
+- **港股 10/7 收盘复核**：HSI 24,130.50 -0.62%（18:30）/ **HSTECH 4,194.49 -0.68%**（16:09 收，本轮新增数据点）；美股 10/6 收盘复核与 20.1 一致（S&P 7,818.93 +0.58% 新高 / NVDA $239.24 / MU $1,045.56 -1.73% / ASML -1.39% / TSM -0.72% / AMD +2.80%）。
+
+### 25.2 【新增】金银「收益率冲击」抛售的多源背景（stockwirex / beincrypto / marketscreener / etnownews）
+- **驱动结构**：30Y 5.70%（2002 年以来最高，24.3）+ 10Y ~5.25–5.34%（周一日内 5.344 / 收 5.248）+ DXY +0.2%（近 2 月高点区）+ **杠杆强平卖盘（margin selling）** —— 收益率、强美元、强制卖出三重叠加（stockwirex 分析）。
+- **趋势坐标**：黄金近 1 个月 **-5% 以上**（etnownews）；2026 年内已出现 **7 次单日 -3.5%+ 大跌（2008 年以来最高次数）**，Kobeissi 判定「有望成为 1982 年以来波动最大的一年」（Bespoke 数据，beincrypto 转引）；周一 -3.4% 单日（Z-score -2.90）。
+- **机构观点分化**：Goldman 2026 年底公允价值 **下调至 $4,650**（2027 年 $5,400 维持）；JPMorgan Q4 目标 $4,500；Metals Focus 预计 **2027 年再创新高**（economies.com 转引）；战术空头（做空期货锁定票息）vs 结构多头（逢跌增持实物）并存（economy.com.pk）。
+- **央行购金托底**：WGC 口径 Q2 央行购金 **289 吨（春季季度纪录，+62% YoY）**；年度基准调查 89% 预期未来 12 个月全球黄金储备增加、45%（纪录比例）计划自己增购（marketscreener）。
+- **印度口径背离**：MCX 12 月金期货晨间 ₹1,50,059/10g（+0.50%，「$1.5L 关口收复、低位买盘回流」，Giottus CEO 口径）/ 银 ₹2,27,480/kg（+0.62%）—— 印度晨间与美东午后下跌存在时差/基差，午后 MCX 大概率跟跌；零售 24K ₹14,957/g（-₹65）。
+
+### 25.3 【新增】美股期货跌幅加深 + STZ 财报「beat 但 -5%」（Yahoo Live ~20:00 CST / Herald Sun）
+- **期货**（Yahoo live blog，~20:00 CST 更新）：道指期货 **-0.7%** / 标普 **-0.3%** / 纳指100 **-0.6%** —— 深于 24.8 已录 Reuters 6:02 ET（-0.34% / -0.14% / -0.41%）；驱动 = 30Y 5.70% + Brent >100 + 集中度风险（Brian Sozzi：S&P 前三大持仓 NVDA/AAPL/MSFT ≈ 指数 1/5）+ 纪要观望（明日 02:00）。
+- **10 月加息概率 ~20%**（Yahoo，截至周二；与 24.3「78% 按兵 / 12 月加息基本定价」口径一致）。
+- **STZ（Constellation Brands，Corona/Modelo）财报 beat 但股价 -5%**：Q2 净销售 $2.63B（预期 $2.54B）、调整后 EPS $3.74（预期 $3.55）；重申全年调整后 EPS $11.20–11.90；off-premise（商超/便利店）下滑、on-premise（餐饮）增长（6–7 月世界杯 on-premise 强劲但 off-premise 低于行业预期）；指引啤酒/葡萄酒/企业销售额均 **-1% 至 -1%**。
+- **财报名册更新**：**APLD（Applied Digital）加入今日财报**（23.6 名册仅 LEVI/RELL/RGP/CANOF/PEP/DAL/BMO；LEVI 今日盘后已录）；明日 04:00 PEP/DAL/BMO 不变。
+- **Fed 纪要预览（Reuters / Herald Sun，新增角度）**：纪要预期显示「比 12-0 一致加息决议**更广的讨论**」、或「影响央行下一步政策」（24.3 只录 12-0 票面 + FedWatch 结构，本轮补「讨论广度」预览口径）。
+
+### 25.4 【修正·升级】Reflection Beam 多源坐实（24.6 单源项 → 5 源交叉）
+- **官方博客（reflection.ai）+ alphaXiv + TechCrunch + TNW + 朝鲜日报 5 源一致**：Beam = **501B 总参稀疏 MoE（23B 激活）**，23.8T token 预训练、**1M 上下文**，**10.5K 块 GB300 GPU** 上 >1 亿次 RL rollouts 训练；面向 coding/reasoning/agent 工作负载（「workhorse model」）。
+- **性能口径（公司自述，未独立验证）**：推理基准**比肩 Z.ai GLM-5.2**（744B/40B 激活）且推理算力省 3–4x；超西方开源模型头部；TNW 口径：Moonshot **Kimi K3 仍领先**。
+- **开源承诺**：权重**本月以 Apache 2.0 发布**（当前 waitlist 预览）。
+- 24.6「Nvidia + 特朗普政府背景」→ TechCrunch 坐实 **Nvidia 支持、前 Google DeepMind 研究者创立**（10/5 本地发布）。
+
+### 25.5 胡塞/也门滚动（gate.com 14:45 CST 关联条 + 口径复核）
+- 「沙特**夜间空袭覆盖萨那省在内多个也门省份**」（gate 关联 6h 条）与 1380 行 WSJ 口径（10/6「24 小时 5 省 66 次空袭/导弹打击」）+ 1608 行（胡塞「10 枚弹道导弹击退沙特推进」）一致；本轮**无新增宣称**，仅确认多省夜间空袭覆盖口径。Badr 营地 / Jazan+Asir 3 营地伤亡宣称仍待独立核实（24.8 既定）。
+
+### 25.6 BTC
+- OKX 20:46 重测仍超时（Kraken/CoinGecko 未测，历史三源皆不可达）；沿用 **~$85.9–86.1K 区间**，10/8 恢复后交叉（24.8 既定）。
+
+### 25.7 第 25 轮分析
+1. **金银「纪要前降温」升级为「收益率冲击抛售」，双关键位失守（金 4,135/4,100、银 60）**：40 分钟急跌（GC -1.3% / SI -1.85%）+ 美东上午新腿（4,138→4,094）说明卖压是持续流而非一次性；驱动 = 30Y 5.70% + DXY + 强平链。明日 02:00 纪要 = 最大变量：鹰派（「更广讨论」预览坐实）→ 30Y 破 5.75% + 金下探 4,050/4,000 区、银试 59.2/59.0；鸽派 → 金银共振反弹（银收复 60 + 金收复 4,135）。**A 股黄金股池（山金 +2.2% / 山东黄金 +3.1% 为 9/30 收盘强势）在「金价急跌 + 30Y 新高」双压下是 10/8 节后首日的明确风险点**。
+2. **期货加深（道指 -0.7%）+ STZ「beat 但 -5%」= Q3 财报季定调信号**：前三大持仓 ≈ S&P 1/5 的集中度 + 收益率/油价逆风下，「利好出尽」式定价开始主导（STZ 重申全年 -1% 指引、off-premise 疲软 → 即使 beat 仍 -5%）；今日 LEVI/APLD 盘后 + 明日 PEP/DAL/BMO 为第一波检验。
+3. **A 股 10/8 节后首日外部变量再更新**：① 金银急跌（上一轮「纪要前降温」→ 本轮「决定性失守」）；② Brent 101.8 再试 102.35 → 油气/军工溢价维持；③ 日经 -0.86% / Kospi -0.9% 亚弱（24.5）延续；④ 胡塞多省夜间空袭 + 「Dawn of Yemen」地面战。内部对冲：1.2 万亿买断式逆回购 + 假期消费数据（196.3 亿以旧换新，3 行已录）。「外弱内松」下节后首日风险偏好偏谨慎，关注北向首笔方向与黄金股/油气股的分化。
+
+### 25.8 第 25 轮 Watchlist
+- **今日 21:30 CST**：美股开盘（期货 -0.7% / -0.3% / -0.6% 水平确认 + STZ -5% 盘中反应 + LEVI/APLD 盘后）。
+- **今日 22:30 CST**：EIA WPSR 周报（原油库存，23.6 既定）→ 库存超预期降 → Brent 102.35 再攻/突破。
+- **明日 02:00**：FOMC 9 月纪要（「更广讨论」预览 + 12 月加息定价 + 10 月 ~20% 加息概率）+ $39B 10Y 拍卖双事件。
+- **金银**：金 4,090（今低）/ 4,050 / 4,000 整数；银 59.23（今低）/ 59.0 / 60 收复。
+- **明日 04:00**：PEP / DAL / BMO Q3 + LEVI / **APLD（新增）** / RGP / CANOF 盘后。
+- **明日 19:00**：诺贝尔文学奖（官网为准，23.4 已修正时间；物理奖 Halzen/IceCube 已坐实）。
+- **10/8**：A 股节后首交易日 + 1.2 万亿逆回购（黄金股池 / 油气股 / 军工池重点）；BTC 三源恢复交叉（~$85.9–86.1K）；MCX 跟跌验证印度基差。
+- **10/13**：JPM / ASML / TSMC Q3 财报（15.6 既定）。
+- **胡塞**：Badr / 3 营地伤亡独立核实 + 「Dawn of Yemen」Jabal Habashi 战况滚动；22:30 WPSR 后油价反应。
+
+---
+
+## 附录：原始信息源（第 25 轮补充）
+- hq.sinajs.cn/list=hf_CL,hf_OIL,hf_GC,hf_SI （新浪 hf 期货 API 20:45–20:46：WTI 90.251 / Brent 101.798 / GC 4,094.712 / SI 59.368；Referer 头；两次拉取一致）
+- http://qt.gtimg.cn/q=sh000001,sz399001,sz399006,sh000688,us*.IXIC,us.INX,hkHSI,hkHSTECH （腾讯 20:45 复核：A 股 9/30 收盘旧数据 + 恒指 24,130.50 -0.62% + HSTECH 4,194.49 -0.68% + 美股 10/6 收盘与 20.1 一致）
+- https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html （Yahoo Live ~20:00 CST：期货 -0.7% / -0.3% / -0.6% + STZ Q2 beat 但 -5% + APLD 今日财报 + 10 月加息 ~20% + Sozzi 集中度评论）
+- https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-october-7-2026-gold-prices-losing-ground-ahead-of-fed-minutes-105600743.html （Yahoo 10/7：GC=F 12 月合约开 $4,195、6:41 ET 滑至 $4,138.10；近 1 月 -7.2%；近 1 年 +5.3%（该系列新低））
+- https://goodreturns.in/news/fresh-drop-in-gold-rate-in-india-today-oct-7-24k-22k-18k-gold-prices-fall-ahead-of-festive-season-1539701.html （10/7：Reuters 0451 GMT 现货金 $4,138.34（-0.6%）/ 美黄金期货 $4,164.70（-0.5%）/ 现货银 $60.79（-1.5%）；DXY +0.2%；印度 24K ₹14,957/g）
+- https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-october-7-2026-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru/articleshow/134759505.cms + https://etnownews.com/markets/gold-price-today-october-7-bullion-holds-steady-ahead-of-fomc-minutes-strong-dollar-rising-yields-keep-pressure-on-gold-article-156287564 （ETN 10/7：5:38 AM 现货金 $4,163.72 窄幅 / 银 $61.34；近 1 月金 -5%+；MCX 晨间金 +0.55% / 银 +0.57%）
+- https://stockwirex.com/analysis/why-gold-fell-treasury-yields-us-debt （收益率 5.25% + 美元 + 强平卖出三重驱动；10Y 日内 5.344 / 收 5.248；30Y >5.66%）
+- https://beincrypto.com/gold-most-volatile-year-since-1982 （Bespoke/Kobeissi：2026 年内 7 次单日 -3.5%+（2008 年以来最高）；GS 2026 公允价值 $4,650 / 2027 $5,400；JPM Q4 $4,500；周一 -3.4% Z -2.90）
+- https://marketscreener.com/news/gold-corrects-should-investors-prefer-miners-to-the-metal-ce785dd8d18cf221 （WGC Q2 央行 289 吨春季纪录 +62% YoY；89%/45% 调查；金 1 月 -6%、春季季度 -14%）
+- https://www.alphaxiv.org/abs/2610.introducing-beam + https://reflection.ai/blog/introducing-beam + https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/ + https://thenextweb.com/news/reflection-ai-beam-open-weight-model + https://biz.chosun.com/en/en-it/2026/10/06/ZSBBZGWYRNHSPH43WGJA5PJEAU/ （Beam 501B/23B MoE、23.8T tokens、1M 上下文、10.5K GB300、100M+ rollouts、Apache 2.0 开源承诺，5 源交叉）
+- https://heraldsun.com/news/business/article317522458.html + https://srnnews.com/wall-st-futures-slip-as-yields-and-oil-rebound-fed-minutes-in-focus （Reuters/Herald Sun：Fed 纪要「比 12-0 更广的讨论」预览 + 周二 S&P/纳指收盘新高背景）
+- https://www.gate.com/news/detail/houthi-forces-claim-attacks-on-saudi-airports-and-military-base-on-october-24793699 （gate 关联 14:45 CST：沙特夜间多省含萨那空袭 + 66 次打击 / 10 枚导弹口径复核）
+- https://www.okx.com/api/v5/market/ticker?instId=BTC-USDT （20:46 重测：超时不可达，三源维持不可用）
