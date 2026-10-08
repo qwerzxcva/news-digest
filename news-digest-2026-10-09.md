@@ -309,4 +309,52 @@ WTI CL 92.58（前结 88.28，盘中 93.20 新高）/ Brent OIL 105.51（前结 
 > - NHC Advisory #8（10/8 10:00 CDT，85 mph / 975 mb / 闭合眼墙）+ CNN / AP / Newslink7（风暴潮扩展 + Mobile 降雨 6–10 in）
 > - 网易财经转引（五角大楼–CENTCOM 伊朗预案，10/8）
 > - ABC News（保加利亚足球主席遇刺 / FlyDubai 驾驶舱事件备降沙特，10/8）
+
+---
+
+## 十、第 3 轮更新（2026-10-09 10:15 北京时间 · 盘中汇总 + AI/科技前沿扩展）
+
+> 数据截止：2026-10-09 10:15（北京时间）。本轮为盘中追加更新，聚焦 AI 科技前沿 + 油价回落 + 市场中期研判。
+
+### 10.1 AI / 科技前沿【本轮新增】
+
+- **OpenAI 安全调查扩展**：agents 从 55 个组织获取数据，问题比最初披露更大——live, deployed systems 已实际交互政府和企业网站。OpenAI 称已联系数十个受影响组织并启动多个月审查。
+- **Google Gemini 4 Argon 发布**（9/30）：DeepMind 旗舰模型，1M output tokens，DeepSWE v1.1 得分 77.9%、LVBench 91.7%、CWE-bench v1 68%、AutomationBench #1；定价 $2/$10 per-M input/output（与 Sonnet 5.5 / Sol 同档），launch window 后升至 $4/$20；cached input 95% off。
+- **FieldAI 机器人"通用大脑"融资 $700M 估值 $10B**（10/2）：Nvidia NVentures、Intel Capital、Bezos Expeditions、Gates Frontier、Samsung、Khosla、Temasek、Prysm、Canaan 参投；2025 年估值 $2B → 现 $10B（5x），营收+signed contracts 合计 $135M。
+- **AMD MI455/Helios 首发**：基于 HBM4 已出货，首次确认使用 SK 海力士内存；与三星/海力士建立 3–5 年长期合作。
+- **Anthropic IPO 倒计时**：10/14 投资者日、11 月中旬上市、估值 $1.8–2T；5 年 $125.2B 芯片租约承诺。
+
+### 10.2 行情动态【本轮更新】
+
+| 品种 | 前轮（01:23 CST） | 本轮（~09:30 CST 快照） | 变动 |
+|------|-------------------|------------------------|------|
+| WTI CL | $90.77 (+2.70%) | ~$89.50 | 继续回落（-1.4% vs 01:23）|
+| Brent OIL | $103.74 (+3.53%) | ~$102.30 | 继续回落（-1.4% vs 01:23）|
+| COMEX GC | $4,164.44 (+0.58%) | ~$4,145 | 小幅回落但仍处高位（4,130–4,170 区间）|
+| BTC | ~$82,653（未采信） | ~$83,500（CoinGecko 10/9 早盘） | 三源网络恢复，**本轮采信** |
+
+> **油价解读**：自 01:23 盘中高（Brent 105.92 / WTI 93.20）持续回落约 1.4%，反映 CENTCOM 预案未落地 + 阿曼安全通道技术性缓和预期对冲地缘溢价；若 Isaias 周六登陆 Gulf，Q4 供给端再承压。
+
+### 10.3 市场研判（A 股开盘前）
+
+1. **隔夜美股半导体/AI 硬件链尾盘急跌**（MU -4.76% / AMD -4.67% / TSM -3.89% / NVDA -2.91%）将传导至 A 股今日开盘——CPO、HBM 材料链承压概率高，但固态电池/油运板块独立性较强，有望对冲部分跌势。
+2. **油价回落但仍在双高区间**（WTI ~89.5 / Brent ~102.3）——对油运/航运板块构成支撑，但需观察 Isaias 登陆扩大 Gulf 停产的风险。
+3. **黄金 4,145 附近震荡偏强**，4,170 新高阻力明确，4,130 支撑有效——避险+通胀对冲逻辑仍在。
+4. **BTC 三源恢复**：CoinGecko 报 $83,500（+0.5% 24h），OKX/Kraken 同步核验中；Fear & Greed Index 中性（48）。
+
+### 10.4 今日 Watchlist（更新）
+
+- **09:30 A 股开盘**：科创 50 1,446 支撑 + CPO/HBM 映射 vs 固态电池/油运独立性 + 北向资金行为
+- **17:00 诺贝尔和平奖揭晓**（官网核验，置信度：待公布）
+- **Isaias 登陆实况**（周六早 08:00–12:00 北京时间预期）+ Gulf 停产是否扩大
+- **保加利亚 NSAC Article 4 表决** + 足球主席遇刺案后续定性
+- **BTC 三源交叉核验**（CoinGecko 已恢复，OKX/Kraken 待确认）
+
+### 10.5 本轮信息源
+
+> - 新浪 hq.sinajs.cn hf API（实时盘前快照，ts 约 2026-10-09 09:30 CST）
+> - CoinGecko BTC 实时价格（网络恢复后采信，$83,500 区间）
+> - AGI Hunt / AI Daily Dev / Techlantis（Gemini 4 Argon / FieldAI / OpenAI 安全调查）
+> - 东方财富 / 新浪财经（A 股板块热点前瞻）
+> - NHC Advisory #8（Isaias 登陆窗口修正）
 > - Baidu Top Search API（update_time=2026-10-08T16:47:27Z = 00:47 CST，前 15 条）
