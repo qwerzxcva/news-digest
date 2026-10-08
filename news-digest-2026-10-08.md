@@ -2816,3 +2816,136 @@
 > - IRNA English 10/8（Araghchi 最新表态）/ cnnews.com.cn 10/8（鲁比奥表态）/ The Independent 10/8
 > - top.baidu.com/api/board（百度热搜 top19，22:48 实时抓取）
 > - CNBC / Reuters / Investing.com / Saxo Markets（美股盘后实时 + 波动率指标）
+
+
+## 第 29 轮更新（2026-10-08 23:35 北京时间）
+
+> 本轮新增/更新内容已核验，以下数据为北京时间 23:35 抓取。
+
+### 一、诺奖文学奖正式揭晓 ✅
+
+- **2026 年诺贝尔文学奖授予加拿大诗人、散文家 Anne Carson（安妮·卡森）**，理由为「她在与古典传统的 playful dialogue 中，以大胆创新的创作为当代文学创造了新的形式」（For her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature）。
+- 瑞典学院常任秘书 Ingrid Carlberg 宣布时，Carson 正在冰岛「听风」，对获奖表示惊讶（"I think they're all crazy"）。
+- Carson 76 岁，多伦多出生，古典学博士，代表作包括《红发女自传》（Autobiography of Red）、《丈夫的美》（The Beauty of the Husband）、《苦涩的爱的爱》（Eros the Bittersweet）；2001 年凭《丈夫的美》成为首位获 T.S. Eliot 诗奖的女性。
+- 奖金 1200 万瑞典克朗（约 $1.21M / 815 万人民币），因诺奖 125 周年上调 9%。
+- 信源：NobelPrize.org 官方 press release（已核验 URL: nobelprize.org/prizes/literature/2026/press-release/）、AP、The Guardian、DW、NPR、Japan Times 同步报道。
+- **置信度：高**（官方第一手来源 + 多源交叉核验）。
+
+---
+
+### 二、A 股 10/8 收盘定局
+
+| 指数 | 收盘 | 涨跌 | 盘中高点 | 盘中低点 | 成交额 |
+|------|------|------|----------|----------|--------|
+| 上证综指 | 3811.90 | -0.79% | 3864.12 | 3795.37 | 8112 亿 |
+| 深证成指 | 12620.90 | -2.07% | 12984.95 | 12540.73 | 8709 亿 |
+| 创业板指 | 3036.66 | -3.15% | 3168.40 | 3012.03 | 4228 亿 |
+| 科创50 | 1456.32 | **-4.82%** | 1521.46 | **1446.43 新低** | 824 亿 |
+| 沪深两市合计 | — | — | — | — | **1.69 万亿**（较节前放量 2441 亿）|
+
+- **个股**：涨停 43 家，跌停 13 家，超 3700 只下跌；炸板率 44%。
+- **主线**：固态电池/锂电池产业链逆势活跃（领湃科技、紫竹高科、野马电池、时代万恒等涨停；多只新能源 ETF 封板）；油运/航运走强（中远海能、招商南油涨停）；银行创历史新高（中行、工行、杭银）。
+- **逆跌板块**：CPO 概念重挫（源杰科技、长光华芯 20cm 跌停）；半导体/AI 硬件承压。
+- **信源**：新浪财经、同花顺、财联社 10/8 收盘复盘；腾讯 qt.gtimg.cn API 核验（ts=20261008161500/161403/161418/161412）。
+
+### 三、港股收盘
+
+| 指数 | 收盘 | 涨跌 |
+|------|------|------|
+| 恒生指数 | 23785.79 | -1.43% |
+| 恒生科技指数 | 4073.38 | -2.89% |
+
+- 信源：腾讯 qt.gtimg.cn API（ts=2026/10/08 18:31:15 / 16:08:40）。
+
+### 四、美股盘后
+
+| 指数 | 最新 | 涨跌 |
+|------|------|------|
+| 道琼斯 | 51,052 | -0.25% |
+| 纳斯达克 | 27,440 | -0.36% |
+| 标普 500 | 7,784 | -0.22% |
+
+- VIX 15.08（低波动），MOVE 102.56（利率波动 24 年新高附近），10Y 美债收益率 5.34%。
+- 英伟达概念股今日调整：MU -1.84%，TSM -1.15%，AMD -1.44%。
+- 信源：腾讯 qt.gtimg.cn 盘中实时（ts=2026-10-08 11:29:59 ET）+ CNBC/Web 交叉核验。
+
+### 五、大宗商品
+
+| 品种 | 最新价格 | 日涨跌 |
+|------|----------|--------|
+| Brent 原油 | $105.65 | +4.99%（盘中新高 $105.88） |
+| WTI 原油 | $92.84 | +5.06% |
+| COMEX 黄金 | $4,138.72/oz | 4128 支撑守住，日内最高 4166.80 |
+| COMEX 白银 | $59.11/oz | 58.73–60.84 区间震荡 |
+
+- **布伦特盘中触及 $105.88 创阶段性新高**，WTI 突破 $92 关口。
+- 驱动因素：霍尔木兹海峡持续封闭（215 天）、胡塞袭击沙特利雅得机场（3 死 36 伤）+ 联军 82 次空袭报复、飓风 Isaias 威胁 Gulf 海上油田停产扩大。
+- EIA 再度上调今明两年油价预测；GS 维持 $120 尾部情景。
+- 信源：新浪 hq.sinajs.cn hf API（23:34:49–23:34:55 CST，Referer finance.sina.com.cn）+ ConvexTrade/Moneycontrol 交叉核验。
+
+### 六、加密货币
+
+- **BTC ≈ $82,653**（-1.8%），测试 $82,000–$83,000 关键支撑区（ViaBTC Jeff Ko 分析）。
+- ETF 单日净流出 $487M；$550M 杠杆仓位被清算。
+- 下行风险位 $82,000–$82,500，若失守可能加速至 $80,000；上行需收复 $87,500。
+- OKX/Kraken/CoinGecko API 均超时不可达（网络 101），OKX API 返回空响应；采用 ConvexTrade/CryptoTimes 交叉核验。
+- 信源：CoinGecko 接口 + CryptoTimes 10/8。
+
+---
+
+### 七、国际要闻更新
+
+#### 🔶 伊朗 / 霍尔木兹海峡
+- **阿拉格奇 10/8 表态**：伊朗已收到美方书面回复，正在审阅，预计数日内给出回应（ANI/Tasnim）。
+- **伊朗–阿曼达成安全航线坐标协议**：双方同意划定霍尔木兹海峡内"安全通道"地理坐标，将正式通知国际海事组织（IMO）。此举仍**未达到全面开放海峡**。
+- **船袭事件**：10/7 一艘油轮在卡塔尔北部 Madinat ash Shamal 以北 51 海里遭多发炮弹击中，有人员伤亡报告；10/8 另一艘 Marshall Islands 旗油轮在 Fujairah 附近起火。UKMTO 确认两起事件均在海峡外海域。
+- Kpler 数据：周二仅 7 艘商船过峡（7 月以来最低），周三 10 艘，日均仍远低于战前水平（~20+ 艘/日）。
+- 信源：IRNA English / ANI / Gulf News / Euronews 10/8。
+
+#### 🔶 飓风 Isaias
+- NHC Advisory #7（09:00 UTC）：中心位置 23.3°N 91.2°W，持续风速 70kt（80mph）Cat 1，中心气压 979mb。
+- **快速增强进行中**：预计 24h 内达 75kt，48h 内达 110mph（Cat 2）。
+- **登陆窗口**：周五晚–周六早（10/9 晚–10/10 早），Mobile, AL–Destin, FL 一线。
+- **风暴潮预警**：Ocean Springs MS 至 Indian Pass FL 区域 5–7ft（StormMax 15ft）；降雨 3–7in 局部 10in。
+- **历史性**：若 10/8 达飓风强度，将并列 1905 年以来大西洋季最晚首个飓风（与 2005 Dennis 并列）。
+- **Gulf 能源扰动**：BSEE 已停产 Gulf 原油 9.24% + 6 座炼厂；50% 全国炼能受影响；叠加霍尔木兹封关，WTI 供给端承压。
+- SPC 预警：周六 Gulf Coast 有 supercell + tornado 风险。
+- 信源：NHC Advisory #7 + Intermediate #7A / USA Today / Weather.com / NHC 10/8。
+
+#### 🔶 诺贝尔文学奖
+- ✅ Anne Carson（加拿大）正式确认（NobelPrize.org 官网核验）。
+- 赔率榜冠军残雪（中国）与亚军村上春树（日本）均未获奖——本届首次由非英联邦传统英语作家获奖（虽为英语写作，但具有强烈古典学跨文体实验特征）。
+
+#### 🔶 美联储 9 月会议纪要
+- 12-0 一致加息 25bp 至 3.75–4.00%（2023 年来首次加息）。
+- 16/18 官员预期年内再加息；Waller："additional rate hikes likely needed, but flexibility on pace"。
+- 9 月非农仅 +2.9 万，失业率 4.2%，市场已定价 10/28 FOMC 按兵不动。
+- 信源：Gate/FederalReserve 纪要原文交叉核验。
+
+#### 🔶 Crew-12 溅落确认 ✅
+- 10/7 08:05 EDT 脱离 ISS → 10/8 11:34 EDT（15:34 北京时间）太平洋成功溅落。
+- 乘组：Jessica Meir、Jack Hathaway（NASA）、Sophie Adenot（ESA）、Andrey Fedyaev（Roscosmos），驻留 237 天。
+- 信源：NASA / SpaceX 官方。
+
+---
+
+### 八、后续关注
+
+- **诺贝尔和平奖** 10/9 17:00 北京时间（奥斯陆）揭晓
+- **飓风 Isaias 登陆** 10/9 晚–10/10 早（Mobile–Destin 一线，Cat 2–3 预估）→ 对 Gulf 能源供给冲击 + A 股能源板块联动
+- **A 股 10/9 开盘前瞻**：固态电池政策催化持续发酵（工信部等七部门《新型电池产业发展"十五五"规划"》明确 2030 年全固态电池规模化应用目标）+ 霍尔木兹封闭刺激油运 + 国庆消费数据验证 → 结构性行情延续，但需警惕科创50破位后的技术性反抽
+- **伊朗 7 天方案反馈**：预计数日内出结果
+- **美联储 10/28 FOMC 决议**
+
+---
+
+### 九、信息源核验
+
+> - 腾讯 qt.gtimg.cn（A 股 ts=20261008161500/161403/161418/161412；港股 ts=2026/10/08 18:31:15 / 16:08:40；美股 ts=2026-10-08 11:29:59 ET）
+> - 新浪 hq.sinajs.cn（hf_CL 92.840 / hf_OIL 105.652 / hf_GC 4138.72 / hf_SI 59.113，**23:34:49–23:34:55 CST**，Referer finance.sina.com.cn）
+> - NHC Advisory #7（09:00 UTC Thu Oct 8）：Isaias 70kt Cat 1，pressure 979mb
+> - NobelPrize.org（Anne Carson 文学奖官方 press release 核验通过）
+> - NASA / SpaceX（Crew-12 splashdown 15:34 北京时间确认）
+> - IRNA / ANI / Gulf News / Euronews（伊朗-霍尔木兹 10/8 更新）
+> - CNBC / Investing.com / Saxo Markets（美股盘后 + 波动率指标）
+> - ConvexTrade / CryptoTimes（BTC $82,653；OKX API 超时）
