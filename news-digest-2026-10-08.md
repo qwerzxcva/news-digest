@@ -1310,3 +1310,93 @@
 > - 腾讯 qt.gtimg.cn（A 股/港股/美股 09:21 CST 抓取，集合竞价口径）
 > - qwerzxcva/stocks commit 1be8fc5（analysis/20261008-under50-mainboard.md + charts/analysis_20261008_under50_mainboard.*）
 > - r13（08:35）：伊-阿曼协议 / IRGC 叙事 / 诺奖官网复验 / 和平奖 287 候选人
+
+## 第 15 轮更新（10/8 09:32 北京时间 · A 股节后首日正式开盘定盘（科创 50 -1.48% 最弱）+ 黄金 GC 4,153 突破 4,150 / XAU 破 Kitco 4,118 + 特朗普「炸或谈」最新表态 + Vance 60% 浓缩门槛 + Isaias 5pm advisory「strong hurricane」上调）
+
+> 编号说明：并发说明——第 14 轮（09:21，commit 3625b17）已完成集合竞价快照 + stocks 仓库选股同步；本轮为第 15 个 commit，子节顺延 16.x，抓取时点 09:31（A 股开盘 1 分钟 + 大宗 09:31 再核验）。
+
+### 16.1 行情核验快照（09:31 · 腾讯 + 新浪 API，A 股节后首日开盘 1 分钟）
+
+**A 股 10/8 节后首日开盘价（09:30 撮合确认，腾讯 API 09:31 抓取）**：
+
+| 指数 | 开盘 | 涨跌 | 竞价→开盘变化 |
+|------|------|------|------|
+| 上证 | **3,838.98** | **-0.08%** | 平开（3,842.11 竞价）→ 微低 0.08% |
+| 深成指 | 12,896.45 | +0.07% | 平开 → +0.07% |
+| 创业板 | 3,140.46 | **+0.17%** | 平开 → +0.17% |
+| 科创 50 | **1,512.79** | **-1.13%** | 平开 → 竞价后扩大至 -1.13% |
+
+**开盘 1 分钟连续竞价（09:31 时点）**：上证 **3,838.23（-0.10%）**、深成 12,858.15（**-0.23%**）、创业板 **3,120.90（-0.46%**，3 分钟内自 +0.17% 翻绿扩大）、科创 50 **1,507.39（-1.48%**）——**开盘 3 分钟结构分化坐实并加速：科创/AI 硬件链（承接 ASML -1.59% / TSM -2.09% 回调 + 澜起 H -8% AH 联动）最弱，创业板翻绿，上证 -0.10% 相对抗跌**；r14 预判的「高开 + 结构分化」情景修正为「**平开微低 + 结构分化**」（ES +0.65~0.71% 的高开锚未兑现，A 股开盘情绪弱于美股期货指引）。
+
+**港股**：09:30 同步开盘，腾讯 API 09:16 快照仍为 10/7 收盘（HSI 24,130.50 / HSTECH 4,194.49），10/8 实时值待下轮补录。
+
+**大宗商品（新浪 hf，09:31 CST — 较 r14 09:21 再核验）**：
+
+| 品种 | 09:31 | r14 09:21 | 前结 | 变动 |
+|------|-------|-----------|------|------|
+| WTI CL | **89.328** | 89.428 | 88.280 | -0.10（+1.19% vs 前结，高位横盘） |
+| Brent OIL | **101.548** | 101.665 | 100.200 | -0.12（+1.35% vs 前结，101.5–101.8 区间） |
+| COMEX 黄金 GC | **4,153.220** | 4,146.51 | 4,140.70 | **+6.71（突破 4,150 关口！+0.87% vs 前结）** |
+| COMEX 白银 SI | **60.550** | 60.576 | 60.294 | -0.03（守 60 上方） |
+| 伦敦金 XAU | **4,128.91** | — | 4,110.68 | **首次站上 Kitco 4,118 关键支撑（+0.44%）** |
+
+> **本轮最重要盘面信号：黄金完成「破位→收复→突破」三段反转**——09:05 破 4,130 → r14 收复 → 09:31 GC 4,153.22（+0.87%）+ XAU 4,128.91（现货首次站上 4,118）；驱动为亚盘买盘 + 避险情绪（霍尔木兹 Day 222 袭击节奏 + Isaias 周五登陆）叠加。10Y 5.30% 高利率压制未完全主导，方向验证点：10/9 01:00 拍卖后 bid 强弱。
+
+**美股期货（CME，09:31）**：ES **7,850.650**（vs INX 7,801.77 → **+0.63%**）/ NQ **31,410.015**（+0.02%）/ YM **51,391.720**（+0.14%）——较 r14 的 +0.65~0.71% 小幅回落横盘；A 股开盘未兑现该高开锚（见 16.1 首段）。
+
+**BTC（Gate.io，09:11 快照）**：**$83,429.1（24h -2.35%）**，区间 82,765.9–85,464.5；OKX/Kraken 仍不可达，单源中置信。
+
+### 16.2 【新增】特朗普「炸或谈」最新表态 + Vance 60% 浓缩门槛（13.3 阶段判定更新）
+
+- **特朗普（10/7 晚美东 → 10/8 早北京，CBS/ANI 多源）**：*"We blow them up or make a deal. But the time is coming. It's going to end very soon, one way or another."*——**「炸或谈」二分框架正式入叙事**（较 r11「very quickly + 油价崩跌」的缓和口径进一步硬化），为 13.3「伊最终立场二元事件」增加**美方军事选项时点锚（The Atlantic 11/3 中期选举前窗口，r13 已录）**。
+- **JD Vance（Reuters 专访，10/8 披露）**：美方要求伊方「**meaningful cut in enrichment capacity**」作为停火前置——*「If you don't want a nuclear weapon, then why do you need 60% enriched fuel? … that is a very basic threshold issue」*；美方保持谈判开放但坚持「concrete steps, not assurances」——**13.3 美反案（7 天信心建设 + 6 月 MoU 增强版）的核门槛条件首次量化（60% 浓缩为红线）**。
+- **IRGC 26 页公开信（美国选民）**：*「Remove from power the evil, deceitful, and violent politicians who are responsible for America's current state」*——伊朗「政治攻势 + 军事威慑 + 话语文戏」三线并行升级。
+- **美完成伊拉克撤军（背景补全，r12 首提、本轮坐实时间线）**：9/30 最后部队撤离 Erbil、10/1 Trump 白宫宣布**23 年驻军结束**；Pentagon 定性「12 年反 ISIS 任务成功」；伊拉克 PM al-Zaidi 宣布**4 天主权日**；美保留有限训练/情报通道；库尔德方面警告伊朗支持的民兵威胁——**中东力量版图重定价：美撤伊拉克 + 霍尔木兹对峙 + 黑海外溢三线并存的「战略收缩-选择性介入」框架成型**。
+
+### 16.3 【新增】Isaias NHC 5pm advisory（10/7 21:00 UTC）：65 mph +「strong hurricane」概率上调 + 登陆窗口「late Friday or early Saturday」
+
+- **强度修订（vs r9「Cat 2 峰值 110mph」基准）**：NHC 10/7 17:00 EDT 通报——最大持续风力 **65 mph**（10/7 04:00 CDT 通报的 40 mph 后**快速增强**），位于 Progreso 以西 ~500 miles、向东北 8 mph 移动；Blake：*"Isaias is expected to strengthen and be a **strong hurricane** when it approaches the northern Gulf Coast on Friday"*——**「strong hurricane（≥Cat 3）」概率较 r9「Cat 2 峰值 110mph（just shy of Cat 3）」上调**；Papin：*"it is looking more likely that Isaias will be a significant hurricane when it reaches the coast"* + 「short-wave trough 交互 → 风场扩大（登陆点东侧数百 miles 受累）」。
+- **登陆时点后移**：NHC 明确「**Landfall is not expected until late Friday or early Saturday**, and its intensity is forecast to drop some」——r8–r9「周五早 110mph 峰值登陆」基准**部分修正为「周五晚–周六早登陆 + 强度略降」**。
+- **警戒线（10/7 10:00 CDT 起生效）**：飓风警戒 **Bay St. Louis, LA – Indian Pass, FL** + 风暴潮警戒 **密西西比河口 – Yankeetown, FL**（峰值 5–7 ft，Mobile Bay 5–7 ft）+ 热带风暴警戒（Jefferson/Plaquemines 线以西 + Indian Pass 以东至 Aucilla 河）；佛州 25 县紧急状态不变。
+- **能源端**：BSEE Gulf 停产 9.24% + 6 座炼厂 + 50% 全国炼能（r8 不变）；WTI 89.33 / Brent 101.55 的回升即「strong hurricane 概率上调 + 登陆窗口后移」的再定价。
+- **下轮核验点**：NHC 10/8 03:00 UTC（今日 11:00 CST）通告——预计正式升级 **Hurricane Isaias**；若 Cat 1 确认，「strong hurricane at approach」情景进入 48h 倒计时。
+
+### 16.4 诺奖文学奖 / 和平奖（官网 09:30 前最后一次核验，无新增）
+
+- **文学奖**：13:00 CEST（北京 19:00）揭晓，**官网 09:30 前未更新**（r13 08:32 复验「尚未颁发」口径有效）；Anne Carson / 残雪并列 10/1 领跑赔率不变；**线上「Krasznahorkai 获奖」信息流全部系 2025 年度混配（AP 图注 2025-10-09 坐实，r13 已录），本轮再次检索未见 2026 官网结果，维持「19:00 后官网核验方可写入」纪律**。
+- **和平奖**：10/9 17:00 北京（r13 口径不变：287 候选人 208 个人 + 79 组织；Kalshi ERRs 27¢ 参考）。
+- **注意检索噪声**：本轮 web_search 大量混入 2015（Alexievich）/2020（Glück）/2023（Fosse）/2024（韩江）/2025（Krasznahorkai）往年旧稿，**一律不采信**。
+
+### 16.5 黑海（无新增外交进展，背景补全）
+
+- **IMEAK（土耳其海事商会）口径**：自战争爆发以来黑海累计 **226 艘民用船只遭袭**（绝大多数发生在今年）——保加利亚 EEZ 事件（r6/r10 已录）后的宏观背景数据补全；Able 坐沉 / Alfa Watan 10 人失踪核查窗口 10/8–10/9 不变。
+
+### 16.6 本轮分析与展望
+
+1. **A 股节后首日「平开微低 + 结构分化」定盘（16.1）**：r14 的「ES +0.65~0.71% 高开锚」未兑现——实际开盘上证 -0.08% / 科创 -1.13% / 创业板 +0.17%（3 分钟翻绿 -0.46%），**「美债 10Y 5.30% + 英 30Y 6%+ 外资逆风」（r11/r12）压倒「ES 期货偏多 + SI 收复 60 + 关税休战延长」多头锚**；科创 -1.48% 与 ASML/TSM 回调 + 澜起 H -8% AH 联动完全对应（r10/r11 预判的「存储链 vs 设备代工链分化」首日兑现，**设备代工链更弱**）。后续验证：① 上午量能能否至 1.5 万亿（r14 门槛）；② 13:00 午后 R001 是否因 1.2 万亿净投放走平；③ 港股 09:30 实时开盘值（下轮补）。
+2. **黄金三段反转（16.1）为今日最重要的技术信号变化**：GC 4,153（+0.87%）+ XAU 4,129（破 Kitco 4,118）+ SI 60.55（守 60）——「破 4,130 → 收复 → 突破 4,150」在 1 小时内完成；**驱动 = 亚盘避险买盘（霍尔木兹 Day 222 + Isaias 上调）+ 通胀粘性（PCE 未失控但油价 101）；10Y 5.30% 的利率压制被避险暂时压倒**——若 10/9 01:00 拍卖 bid 偏弱 → 30Y 5.69% 新高上移 → 金银二次承压概率上升；若拍卖强劲 → 金银修复 4,150/60.5 已兑现、下一目标 GC 4,160 / SI 61。
+3. **美伊「炸或谈」框架（16.2）为 10/8–15 油价路径的二元裁决点**：特朗普「blow them up or make a deal」+ Vance「60% 浓缩红线」+ IRGC 26 页公开信——**伊最终立场（r13 二元事件）+ 美方军事选项时点（The Atlantic 11/3）双线并行**；Brent 101.55（+1.35%）的回升反映「风险溢价未出清 + strong hurricane 概率上调」；**若 11/3 前军事选项落地 → Brent 上探日内高点 102.59 → $105+ 场景；若伊接受反案 → Brent 向 $95–98（阿曼窄航道，r13）回落**。
+4. **Isaias「strong hurricane + 登陆后移」（16.3）为 WTI/Brent 的下一个脉冲源**：NHC 5pm 65 mph（vs 04:00 CDT 的 40 mph，3 小时增强 25 mph）+ 「strong hurricane at approach」概率上调 + 登陆窗口后移至「周五晚–周六早」——**BSEE 9.24% 停产 + 6 炼厂 + 50% 全国炼能的供给约束下，10/9 周五为 WTI 89.3 / Brent 101.5 的上行风险集中释放日**；同时「登陆前减弱」情景仍在基准内（vertical shear 末 24h 显著增强）。
+
+### 16.7 本轮 Watchlist
+
+- **今日 11:00（北京 / 03:00 UTC）**：NHC Isaias 新通告——正式升级 **Hurricane Isaias** + 「strong hurricane at approach」48h 倒计时确认。
+- **今日 11:30–13:00（北京）**：A 股午后——量能 1.5 万亿验证 + R001 走平（1.2 万亿净投放落地）+ 科创 50 -1.48% 能否收复 -1% + 创业板翻绿是否企稳。
+- **今日 19:00（北京）**：诺贝尔文学奖揭晓——官网核验后再写入（Anne Carson / 残雪并列领跑，往年旧稿勿采信；19:00 前官网未更新 = 维持 r13 口径）。
+- **今日 10/8 晚（美东 / 北京 10/9 凌晨）**：① 伊朗「最终立场」二元事件（13.3 裁决点）+ 特朗普「炸或谈」后续 + Vance「60% 浓缩红线」美方回应；② IRGC 26 页公开信传播效应 + The Atlantic「11/3 中期选举前再打击」信号跟踪；③ 美完成伊拉克撤军后续（库尔德 + 伊拉克民兵反应）。
+- **10/9 17:00**：诺贝尔和平奖（奥斯陆 11:00 CEST）。
+- **10/9（周五）**：Isaias 登陆窗口（**late Friday–early Saturday，strong hurricane 概率上调**）+ WTI 89.3 / Brent 101.5 上行风险集中释放 + **JPM/Citi/WFC 银行财报季 10/13 盘前**（非 10/9，r10 已修正日历）。
+- **10/13 8:00 ET**：JPM / Citi / WFC Q3 财报（共识 JPM EPS ~$5.91 / 营收 ~$50.8B）+ ASML / TSMC 10/13–15 密集披露。
+- **持续追踪**：UKMTO 日度袭击节奏（Day 222 周度 ≥14 艘基准 + r13 13.3-④「商船遇袭新报告」告警号）、Able 坐沉核验（10/8–10/9 窗口）、GC 4,150 / SI 60.5 / XAU 4,118 方向、BTC 多源恢复（Gate.io 单源 $83,429.1 / OKX+Kraken 仍不可达）、CME FedWatch 10 月加息 17.2%（r11）后续、**美股期货 ES 7,850.65 vs INX 7,801.77 的 +0.63% 高开锚 10/8 13:30 ET 是否兑现**（A 股首日未兑现，美东 10/8 开盘为第二验证点）。
+
+---
+> 【本轮信息源】
+> - 腾讯 qt.gtimg.cn（09:31 CST；A 股 10/8 节后首日开盘价 + 连续竞价 1 分钟 + 港股 09:16 快照 + 美股 10/7 收盘不变）
+> - 新浪 hq.sinajs.cn（hf_CL / hf_OIL / hf_GC / hf_SI / hf_XAU / hf_ES / hf_NQ / hf_YM 09:31 CST 抓取，Referer finance.sina.com.cn）
+> - https://api.gateio.ws/api/v4/spot/tickers （BTC $83,429.1，09:11 CST；OKX/Kraken 仍不可达，单源中置信）
+> - https://news.cbsnews.com（特朗普「blow them up or make a deal」+ Vance Reuters 专访 60% 浓缩门槛 + IRGC 26 页公开信，经 Yahoo / ANI / Lokmat 多源转载）
+> - https://www.nhc.noaa.gov（Isaias 10/7 17:00 EDT advisory：65 mph /「strong hurricane at approach」/ 登陆后移 late Friday–early Saturday + 飓风警戒 Bay St. Louis–Indian Pass + 风暴潮警戒密西西比河口–Yankeetown）
+> - https://apnews.com/article/nobel-prize-literature-25f9886d2c35dabfc6ab7936a8a159c0（Krasznahorkai 2025 年度报道混配坐实，r13 已录；本轮再次检索未见 2026 官网结果）
+> - https://www.chinatimes.com / https://www.epochtimes.com / https://news.sina.com.cn/w/2026-10-06/（黑海背景：IMEAK 226 艘累计 + 保加利亚 EEZ 事件 + Able 18 船员获救 + Alfa Watan 10 人失踪）
+> - https://www.businesstimescn.com/articles/628018.html + https://finance.ifeng.com/c/8wqsK7FIEjb（央行 1.2 万亿买断式逆回购 10/8 落地背景 + 王青/董希淼口径 + 四箭齐发框架）
+> - https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/（09:30 前官网未更新 = 维持 r13 口径）
