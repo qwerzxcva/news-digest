@@ -1750,3 +1750,28 @@ WTI CL 92.58（前结 88.28，盘中 93.20 新高）/ Brent OIL 105.51（前结 
 > - VOA / JPost / newsdive（10/9）：特朗普「新黄金时代」峰会 + 伊朗局势持续 + Hormuz 黑潮
 > - mezha.net（Reuters wrap，10/9）：亚太（除日）-0.16% / 日经 -1% / 连二周下跌
 > - coindesk.com/price/bitcoin（BTC $84,266.07 锚点维持；机构抛售持仓 + 特朗普拒绝伊朗协议报道）
+
+---
+
+## 【第 18 轮快照】2026-10-09 13:20（北京时间）— 本轮采集 + 分析
+
+> 数据来源：Reuters（via thenewstribune syndication）、NobelPrize.org、Moneycontrol、金融界/同花顺、NHC、Al Jazeera、Bloomberg 摘要等。【新增】为本轮新进展。
+
+### 本轮要点（AI 分析总结）
+
+1. **【新增】诺贝尔和平奖截至本轮仍未揭晓**：NobelPrize.org 官方页面（multiple fetch）仍显示 "The Nobel Peace Prize 2026 has not been awarded yet. It will be announced on Friday, 9 October"——原定 17:00 CST（11:00 CEST）发布会，官网列表页延迟更新或公布推迟，**待下一轮核验**。特朗普 10/7 放话「差不多该到我了」；奥斯陆和平研究所代理主任撰文认为「在任总统对伊朗开战不可能获奖」。
+2. **【新增】油价回落后周线仍看涨**：Reuters 10/9（0220 GMT）——特朗普表态 11 月中期选举前不会攻击伊朗、与伊朗谈判「有成效」，Brent -0.7% 报 **$103.53**，WTI -0.6% 报 **$90.97**；但因航运遇袭增加，周线仍录得涨幅（周四结算 +4%）。
+3. **【新增】黄金续创高位**：Reuters——美元走软 + 美债收益率回落 + 油价下行，金价周五 +1%+；Moneycontrol 报现货金 **~$4,178/oz**（+1.10%），另一源报 $4,144、白银 $59.54（美伊紧张局势支撑）。与上一轮 GC 4204 期货口径存在期现差异，两口径并列记录。
+4. **【新增】J-1 九校调查细节落定**：10/8 副总统 JD Vance 宣布，美国劳工部启动对 9 所顶尖大学（哈佛/MIT/耶鲁/斯坦福等）J-1 签证「历史性调查」，指涉嫌签证欺诈；对留学生影响解读陆续出炉（Politico/The Hill/ANI 等）。
+5. **【新增】飓风 Isaias 确认墨西哥湾登陆路径**：NHC——Isaias 为 2026 大西洋季首个飓风（一个多世纪以来最晚形成的「首飓」），预计 **10/9 晚间在美湾北部警告区（Pensacola–Mobile 一线附近）登陆**，正转向北并加速。
+6. **A 股收盘核验**（金融界/同花顺）：10/9 午盘 沪指 -1.21% 报 3765.71、深成指 -2.09% 报 12356.56、创业板指 -2.61% 失守 3000 报 2957.32、科创50 -3.78% 报 1401.24；半日成交 1.17 万亿放量 628 亿，超 4300 只个股下跌；锂电池/农业/地产逆势，算力硬件走弱。**收盘全日数据待下一轮补录**。
+7. **伊朗-霍尔木兹**：Al Jazeera live 报伊朗媒体称霍尔木兹海峡「巨大爆炸」（Fars 引军方消息源，未独立核实，延续上轮甄别结论）；伊朗「数日内」答复 7 日方案窗口推至 10/12-14。
+
+### 快讯流（本轮原始采集）
+- Reuters 10/9: Oil falls as Trump comments on Iran talks ease supply concerns; Brent $103.53 / WTI $90.97, weekly gains intact.
+- Reuters 10/9: Gold rises more than 1%, softer dollar + easing yields; Fed outlook in focus. Spot ~$4,178 (Moneycontrol) / $4,144 (另一源), Silver $59.54.
+- NobelPrize.org (13:15 CST fetch): Peace Prize 2026 "has not been awarded yet" — 官网延迟/待揭晓.
+- Fox Weather / NHC: Isaias Cat2, Gulf Coast landfall late Oct 9 within warned area; accelerating northward.
+- The Hill / ANI / Vice President announcement (10/8): DOL "historic investigation" J-1 visa fraud, 9 universities incl. Harvard, MIT.
+- Al Jazeera live (10/9): Iranian media reports 'massive explosions' in Hormuz Strait (Fars, unverified).
+- 同花顺/金融界 10/9 午评: 创业板指跌破 3000 报 2957.32 (-2.61%), 沪指 3765.71 (-1.21%), 深成指 12356.56 (-2.09%), 科创50 1401.24 (-3.78%), 半日 1.17 万亿.
