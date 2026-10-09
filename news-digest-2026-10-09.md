@@ -408,3 +408,86 @@
 
 *本文件由 AI Agent 自动生成，数据仅供参考，不构成投资建议。*
 *最新更新时间：2026-10-09 20:25:00 CST（第 27 轮）；初始生成 2026-10-09 15:35:00 CST*
+
+---
+## 第 28 轮更新（2026-10-09 20:55 北京时间 · 欧盘前 + 诺奖官方确认 + Isaias 登陆前夜）
+
+### 28.1 行情核验（API 直取，20:48–20:55 CST）
+
+**大宗商品（新浪 hf API，20:48:01–20:50:25 CST）**
+
+| 品种 | 最新价 | 日高–日低 | 变动 |
+|------|--------|----------|------|
+| WTI CL | **91.50** | 90.01–91.52 | **+0.6%** |
+| Brent OIL | **103.63** | 102.33–104.09 | **+0.8%** |
+| COMEX GC | **4,205.75** | 4,156.10–4,233.70 | 守 4,200 锚 |
+| COMEX SI | **60.79** | 59.45–60.95 | — |
+
+> 对 R27（20:10 CST）对比：WTI +0.6%（90.56→91.50）、Brent +0.8%（102.79→103.63）；黄金小幅回落至 4,206 守 4,200 锚线。
+
+**BTC（OKX 仍不可达，8 源超时）**：沿用 R25/R26 未采信区间 **81.7–82.6K**；CoinMarketCap 本主机 101 错误不可达。
+
+**A 股 / 港股 / 美股现金**：R25–R27 定局后无新增（A 股 10/9 收盘、港股 10/9 收盘、美股 10/8 收盘均已于 R25 记录）。
+
+### 28.2 重大新闻（本轮新增 / 更新）
+
+1. **⚠️【官网确认】诺贝尔和平奖 2026 = Navi Pillay（南非，85 岁）**：17:00 CST 奥斯陆正式公布，NobelPrize.org 官方 facts 页已上线（https://www.nobelprize.org/prizes/peace/2026/pillay/facts/）——*"for her efforts to promote peace and international law"*。曾任 UN 人权高专（2008–14）、ICTR 庭长、ICJ 特设法官；主持过巴以占领区调查委员会（2021–25）。**重大冷门**：Polymarket 大热（苏丹 ERR 19.1% / Save the Children 8%）全落空；此前 premiumtimesng「Machado 获奖」报道证伪（Machado 是 2025 年得主）。经济奖下周一 10/12 17:45 CST。
+
+2. **【升级】Isaias 登陆窗口（NHC #12 待出）**：NHC #11（09:00 UTC）预报峰值 120 mph (105 kt) / Cat 3 短暂达成 → 登陆前回落至 **high-end Cat 2 (110 mph)**；登陆窗口 **北京时间 10/10 08:00–10:00**（周五 20:00–22:00 ET）；近彭萨科拉；降雨上调至 4–8 in（佛州 Panhandle 局地 15 in）；风暴潮 5–7 ft；龙卷风险（夜间致命概率 ~2×）；Mobile–Tallahassee 一线。下一核验点：NHC #12 完整报（23:00 CST）。
+
+3. **【坐实】Abqaiq 油田火情 + 利雅得机场伤亡细节**：Copernicus Sentinel-2（10/8 ~14:30 当地）示 Abqaiq「大范围紧急燃烧」；OSINT 判读 6 座原油球罐中 4 座过火、2 座疑似损毁；GACA 声明 **3 名沙特国民死亡**（含 Saudia 机长 Al-Kalthami），机场运作已恢复；胡塞「长期冲突」威胁。
+
+4. **特朗普「选举前不打伊朗」（Reuters / Guardian，10/8）**：\"11/3 中期选举前绝不打击伊朗\" + \"productive discussions\"；霍尔木兹日均通行 ~4.6 艘（战前 ~85 艘），占比约 5%；Oman 安全通道坐标已划定；伊朗外长称间接谈判继续。
+
+5. **【AI 政策/监管动态】**
+   - **OpenAI Q1 2026 现金烧 $3.7B**（The Information 6/16 报道，Reuters 转载）：Q1 营收 $5.7B，运营 margin −122%；Q2 营收 $6.7B，亏损加深。FT 10/8 报道 9 月末 ARR ~$50B（低于此前广泛引用的 $68B，口径差）。
+   - **Anthropic Q2 ARR 超 OpenAI**（WSJ 8/19）：Anthropic Q2 ARR $11.6B vs OpenAI Q2 $6.7B，季度营收首超 OpenAI；Anthropic 估值 $965B（5 月融资）。
+   - **OpenAI 年底 ARR 目标 $70B**（Bloomberg via Yahoo Finance，10/9 盘前）：对冲 FT $50B 叙事，NQ +0.8% 领涨盘前反弹。
+   - **博通为 OpenAI 筹 $50B 债务融资**（WSJ/Bloomberg 10/8）：或牵涉 Apollo / Blackstone 私募信贷。
+   - **AMD 收购 World Labs $8.2B**（TechCrunch 9/28）：Fei-Fei Li 任 AMD 首席科学家；世界模型 + 空间智能补齐 AMD 计算链。
+   - **Google Gemini 4 Argon**（9/30）：1M output tokens、DeepSWE v1.1 77.9%、CWE-bench 68%；Fairwind 计划先供网安防御者。
+   - **Mistral Large 4**（10/3）：1T 参数 MoE、52B active，欧洲基础设施训练；对标 GLM-5.3 / DeepSeek-V4-Pro。
+   - **Aleph Alpha Kolibri**（10/3）：78B 参数、Apache 2.0、德国/英语主权模型。
+   - **White House EO 14434「Super Intelligence」**（9/29）：联邦机构用词替换「AI→Super Intelligence」；自愿 Accord 由 Pichai/Zuckerberg/Musk/Huang/Brockman/Amodei 等签署，无执行机制。
+   - **California AG Bonta 对 OpenAI 发出调查传票**（10/1）：Hugging Face 入侵事件相关。
+   - **FTC 行业级调查**（10/2）：OpenAI / Anthropic / METR 多机构协同审查 agent 越界风险。
+
+6. **【美股财报日历】**
+   - 10/8 PEP PepsiCo Q3：营收 $25.27B（+5.6%）、EPS $2.34 超预期；但下调 FY26 核心 EPS 增速指引至 2.5–3.5%（消费疲软 + 定价权松动）。
+   - 10/9 DAL Delta Air Lines Q3：EPS $1.72 双 miss（共识 $1.75–$1.92）、FY 指引 $5.10–5.60（砍至 7 月 $6.50–7.50 区间）、FCF 从 $4B 砍至 $2.5B、燃油假设 Q4 $4.25/加仑。
+   - **10/13 JPM Q3**（共识 $4.86）、**10/14 ASML Q3**（€6.12）、**10/15 TSM Q3**（$2.86）、**10/22 GOOGL**、**10/27 MSFT**、**10/28 META**、**10/29 AAPL/AMZN**。
+
+### 28.3 分析研判
+
+1. **油价「上行触发条件」尚未满足，但 Brent 重回 103+ 提示博弈升温**：WTI 91.5 / Brent 103.6，较 R27（90.56 / 102.79）上涨 0.6–0.8%；Abqaiq「4 罐过火 / 2 罐疑似损毁」若卫星定量坐实 + Isaias Cat 3 登陆，触发 95+ / 105+ 条件。当前市场暂定价「鸽派缓和因子」（特朗普 11/3 前不打 + 美伊间接谈判持续），但胡塞「长期冲突」威胁 + GACA 3 死 = 尾部风险未出清。
+
+2. **黄金守 4,200 = 强支撑确认**：日高 4,233.70（ATH）→ 现 4,206 回吐 <0.6%；中国 8 月进口纪录 1,141 吨（次级源）+ State Street 目标 $4,750–5,500 = 机构 1 年目标 4,750+；30Y 美债 5.64–5.69% 实际利率高位是压制，但地缘溢价 + 避险对冲逻辑延续。
+
+3. **AI 叙事 48h 内「下修 → 修复」翻转**：FT $50B ARR（9 月末实际 run-rate）→ Bloomberg $70B 年底预期（10/9 盘前）= 情绪修复催化剂；NQ +0.8% 领涨盘前 = 技术性反弹确认，但「预期」属性弱于「坐实」，若 U-M 信心（22:00 CST）同步走弱则反弹持续性存疑。
+
+4. **达美 miss 定调航司板块压力**：FY 指引砍幅 −18% + FCF 腰斩 = 高油价（WTI 90 / Brent 102.7）直接侵蚀航司利润；UAL / AAL 盘前 ~−1.1%（R26 次级源）= 板块性利空。若 Isaias 登陆扩大 Gulf 停产率 >70% + Abqaiq 损毁坐实，航空链 10/12 周一补跌风险上升。
+
+5. **诺奖冷门的市场含义**：Pillay 获奖强化「国际法/战争罪追责」叙事，与中东冲突长期化互洽 → 地缘风险溢价财报季前难出清；10/12 经济奖为下一事件点。
+
+### 28.4 本轮 Watchlist（下轮核验点）
+
+- **NHC #12（23:00 CST）**：峰值 120 mph 兑现 + 登陆时刻 / 强度
+- **Isaias 实际登陆（10/10 08:00–10:00 北京时间）** + BSEE Gulf 停产率 + Abqaiq 定量（Sentinel-2 / FIRMS）
+- **22:00 CST 达美电话会 + U-M 消费者信心指数**（双事件点）
+- 胡塞升级（Abqaiq 之外石化目标）/ 沙特对萨那报复
+- 10/10 周六 A 股休市；10/12 周一：JPM Q3 预告 + **诺奖经济奖 17:45** + A 股节后第三日
+- BTC 三源（OKX / Kraken / CoinGecko）恢复可达后交叉
+
+### 28.5 信息源核验（本轮）
+
+- 大宗商品：新浪 hf API 直取（20:48:01–20:50:25 CST，ts 字段 2026-10-09 核验通过）。
+- 诺奖和平奖：NobelPrize.org facts 页（https://www.nobelprize.org/prizes/peace/2026/pillay/facts/）三方交叉确认，Pillay 85 岁 / 南非 / "efforts to promote peace and international law"。
+- Isaias：NHC #11 discussion 官方文本（nhc.noaa.gov 直抓）。
+- AI 营收/融资：Reuters 10/8（FT $50B）、Bloomberg via Yahoo 10/9（$70B）、WSJ 10/8（博通 $50B 债务）、TechCrunch 9/28（AMD/World Labs $8.2B）。
+- 财报：PEP 10/8 盘前（营收 $25.27B、EPS $2.34）、DAL 10/9 盘前（EPS $1.72 miss、FY 指引 $5.10–5.60）。
+- BTC：OKX / Binance / Kraken / Bybit / Gate / Bitstamp / Coinbase / CoinGecko / CoinMarketCap 本主机 **全部不可达** → 沿用 R25/R26 未采信区间 81.7–82.6K。
+
+---
+
+*本文件由 AI Agent 自动生成，数据仅供参考，不构成投资建议。*
+*最新更新时间：2026-10-09 20:55:00 CST（第 28 轮）；初始生成 2026-10-09 15:35:00 CST*
