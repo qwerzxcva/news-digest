@@ -1984,3 +1984,58 @@ WTI CL 92.58（前结 88.28，盘中 93.20 新高）/ Brent OIL 105.51（前结 
 > - Gate News / TokenPost / NewsBytes / spendnode（CoinDesk）/ interactivecrypto（**10/9**）：BTC 81,677–82,435（采信锚 81,800–82,000）；ETF 流出 $487M / 全市场清算 ~$974M / 美国政府 15 亿美元 BTC 转移至 Coinbase Prime
 > - STAT / Tribune / 中新网（**10/8–9**）：J-1 九校传票坐实 + OPT 费用提案 $70K/$30K；微软等绿卡暂停；DHS 新规叠加
 
+
+## 【第 23 轮快照】2026-10-09 16:09（北京时间）— 本轮采集 + 分析
+
+> 数据来源：腾讯 qt.gtimg.cn（A 股 16:09 收盘快照 / 港股 15:54 快照）、新浪 hq.sinajs.cn hf API（商品 16:09–16:10 CST）、NPR / CBS / fox10tv / USA Today（Isaias 10/9）、crypto.news / TokenPost / CoinGecko（BTC）、premiumtimesng / Polymarket / nobelprize.org（诺奖）、CNBC / newsdive / 阿纳多卢（油价 + 国际）、AP / moomoo（美股 10/8 收盘）。【新增】为本轮新进展。
+
+### 本轮要点（AI 分析总结）
+
+1. **【新增】港股收盘确认大涨（15:54:59 快照）**：HSI **24,148.89 +1.53%**（日高 24,224.05 / 日低 23,941.26）/ HSTECH **4,193.57 +2.95%**（日高 4,194.15 / 日低 4,085.19）。HSTECH 自 R22 15:18 的 +2.67% 继续走高至 +2.95%，港股「独立行情 + A 股尾盘犹豫」格局确认——港股科技链（恒生科技）独立走强。
+
+2. **【新增】商品 16:09–16:10 快照（新浪 hf API）**：WTI **90.448**（-0.95% / 日低 90.190）/ Brent **103.044**（-1.09% / 日低 102.680）——特朗普「11/3 前不打伊朗」表态后油价持续回落，但仍站 100 以上；黄金 GC **4,222.753**（日高 **4,233.70 ATH** 维持）/ 白银 SI **60.748**（日高 **60.890 ATH** 维持）——金银续创新高，油金「金强油弱」分化扩大。
+
+3. **【新增】飓风 Isaias Cat 2 强度确认（NPR 10/9 更新）**：最大持续风速 **105 mph**（峰值 115 mph），中心气压 **975 mb**，位于密西西比河口以南约 **260 英里**，向东北移动（14 mph）。NHC 主任 Michael Brennan：「我们预计 Isaias 登陆时将是一个危险飓风。」**风暴潮 5–7 英尺（1.5–2 米）**（Alabama 和 Mississippi 部分沿海地区），**降雨最高 15 英寸（38 厘米）**（沿海地区），周五夜间至周六凌晨 Alabama 至 Florida Panhandle 可能有龙卷风。登陆窗口维持**北京周六 02:00–10:00**（美东周五晚–周六早）。Gulf 原油停产 **130 万桶/日（62.9%）**，6 座炼厂停产（BSEE / US Marine Minerals Administration 10/9 数据）。
+
+4. **【新增】诺贝尔和平奖 17:00 CST 公布在即（~51 分钟）**：官网 nobelprize.org / nobelpeaceprize.org 仍显示「has not been awarded yet」（10/1 缓存页）；**Polymarket 赔率**：Sudan's Emergency Response Rooms（ERRs）**19.1%** / Save the Children **7.5%** / CPJ **~3%** / Trump **<1%**；**搜索发现**：premiumtimesng.com 报道称「挪威诺贝尔委员会周五宣布将诺贝尔和平奖授予委内瑞拉反对派领袖 **María Machado**」，理由是「为委内瑞拉从独裁向民主的公正和平过渡所做的不懈斗争」，Machado 本人表示「震惊……带着喜悦的震惊」。**【注意】** 该报道与 Polymarket 赔率（Machado 未在前 5 名）存在矛盾，需下一轮官网直抓核验（nobelpeaceprize.org / nobelprize.org/prizes/peace/2026/）。
+
+5. **【新增】BTC 回升至 $82,000–82,500 区间（10/9 多源）**：CoinGecko **~$82,365** / TokenPost **$82,542**（07:06 UTC）/ crypto.news **$82,365**（24h 成交量 ~$40.4B / 市值 $1.65T / 较 ATH $126,272 回撤 ~34.7%）。**【新增】Trump 表态后 BTC 从 $80,300 日低回升至 $82,000+**（crypto.news 确认）。关键位：支撑 **$80,500**（守住则区间震荡）/ 阻力 **$84,281 / $87,151**。ETF 单日流出 **$487M**（6 月以来最大）/ 美国政府 **$1.5B BTC 转移 Coinbase Prime** 维持压制。
+
+6. **【新增】国际要闻（10/9 快讯）**：
+   - **Trump 帖文（10/8 14:49 ET）**：「封锁全面保持，11/3 期中选举前不会打击伊朗」+「昨夜 2,200 万桶经霍尔木兹，0 伊朗桶」——流量纪录级但伊朗桶数归零（ABC / AP / 阿纳多卢）。
+   - **油价反应（CNBC / newsdive 10/9）**：Brent -1.3% 至 **$102.91** / WTI -1.2% 至 **$90.40**；周线仍上涨（周四 +4%）。
+   - **乌克兰**：Zelenskyy 指控美国「不愿帮助」，两天内俄罗斯空袭致 **78 人死亡 / 215 人受伤**；呼吁美国开放 Starlink 网络供乌军使用（India Today / AP 10/9）。
+   - **英国东耶路撒冷领事馆**：更名为「UK Mission, Jerusalem」，继续运营；外交大臣 Miliband 声明不承认以色列关闭该馆的法律效力（阿纳多卢 10/9）。
+   - **美国 Fort Hood 枪击案**：Hegseth 宣布 Nidal Hasan 将于 12/3 在 Fort Hood 以公开枪决方式执行死刑（阿纳多卢 10/9）。
+   - **J-1 九校 / 微软绿卡暂停**：Vance 10/8 暂停微软等科技企业 H-1B 绿卡申请；Trump 同日向 Nadella 等 6 名科技领袖授勋章（Indian Express / AP 10/9）——「移民收紧 + 科技依赖」矛盾凸显。
+
+7. **财报季日历更新（近→远）**：今晚 22:00 CST **达美 Q3 电话会**（共识 EPS $1.83–1.96 < 指引下限 $2.00）+ **U-Mich 初值（共识 47.6）+ ISM 制造初值**；**10/12 JPM Q3**（JPM 10/8 +0.56% 预涨）→ **10/15 TSM Q3** → **10/20 NFLX Q3** → **10/28 GOOGL + META Q3**。
+
+### 本轮研判（17:00 诺奖 → 22:00 达美 / U-Mich / ISM → 周六 02:00–10:00 Isaias）
+
+1. **三线交汇今晚密集（17:00 诺奖 → 22:00 达美 / U-Mich / ISM → 周六 02:00–10:00 Isaias）**：若诺奖颁发给 María Machado（委内瑞拉反对派）而非 ERRs / Save the Children → 地缘政治信号 + 市场避险；若颁发给 ERRs（Polymarket 领先 19.1%）→ 人道主义信号，市场反应相对温和。
+2. **BTC $82,000–82,500 锚 + 三重压制**：主权动向（$1.5B 转移 Coinbase Prime）+ ETF 流出 $487M + 清算 ~$974M 同向施压；$80,500 守住则区间震荡（$81.5–84K），失守则 $78–79K 检验；$84K 收复需达美电话会强劲 + 诺奖无惊吓 + 油价回落组合。
+3. **油价「双因子」周末共振风险**：①霍尔木兹雷管事件船名核实（UKMTO / Windward / Kpler）→ Brent 105–110 / WTI 100+；②Isaias 登陆（Gulf 停产 62.9% + 6 炼厂）→ 原油双因子共振。若双开关均未兑现，油价回落 95–100 区间概率上升，金价高位盘整（GC 4,222+ / SI 60.7+）。
+4. **A 股周一（10/12）开盘展望**：三大指数 V 型反转但涨幅不足 0.3%；若周一高开且科创 50 守 1,460 则 V 型结构完整；若低开破 1,450 则转「抄底失败」情绪。港股 HSTECH +2.95% 独立走强或为周一 A 股科技板块提供支撑。
+
+### 本轮 Watchlist（下一轮重点）
+
+- **17:00 CST 诺贝尔和平奖官网直抓核验（第一优先级）**：官方 nobelpeaceprize.org / nobelprize.org 双源确认；premiumtimesng.com 报 María Machado（委内瑞拉反对派）需与 Polymarket 赔率（ERRs 19.1% 领先）交叉核验；特朗普反应口径；市场反应。
+- **22:00 CST 达美 Q3 电话会**：EPS 实际 vs 共识 $1.88 / 指引 $2.00–2.50；Q4 航油假设；FCF 指引；Premium 收入趋势。
+- **U-Mich 初值（共识 47.6）+ ISM 制造初值**：宏观背景信号。
+- **Isaias NHC #10 / #11 通告**：登陆精度（Pensacola–Mobile / Perdido Key 窗口收敛）+ Gulf 停产实时数据（62.9%）+ 风暴潮实况；**北京周六 02:00–10:00 登陆实况**。
+- **BTC $82,000–82,500 锚（$80,500 支撑 / $84K 收复线）**；ETF 流入/流出持续性；政府 $1.5B 转移后续。
+- **霍尔木兹雷管事件周末核实（UKMTO / Windward / Kpler）**：船名披露进度；IRGC「每晚行动」官方全文；「伊朗-阿曼安全通道协议」后续落地时间表。
+- **J-1 九校各校合规声明 + OPT 费用提案（$70K / $30K）学界反应 + 微软 H-1B 绿卡暂停范围**。
+- **下周财报主线：10/12 JPM / 10/15 TSM / 10/20 NFLX / 10/28 GOOGL + META + 10/10（周六）A 股休市**。
+
+### 本轮信息源
+
+> - 腾讯 qt.gtimg.cn（**A 股 16:09:00 收盘快照**：上证 3,813.79 +0.05% / 深成 12,641.86 +0.17% / 创业板 3,043.33 +0.22% / 科创 50 1,457.27 +0.07%（日内区间 1,390.00–1,466.88，振幅 5.28%）；**港股 15:54:59 快照**：HSI 24,148.89 +1.53% / HSTECH 4,193.57 +2.95%）
+> - 新浪 hq.sinajs.cn hf API（**2026-10-09 16:09:50–16:10:01 CST**：hf_GC 4,222.753（日高 4,233.70 ATH）/ hf_SI 60.748（日高 60.890 ATH）/ hf_CL 90.448 / hf_OIL 103.044，Referer finance.sina.com.cn）
+> - NPR / CBS / fox10tv / USA Today（**10/9 更新**）：Isaias Cat 2 105 mph / 峰值 115 mph / 最低气压 975 mb / 距密西西比河口 260 英里；风暴潮 5–7 英尺 / 降雨最高 15 英寸；登陆窗口北京周六 02:00–10:00；Gulf 原油停产 130 万桶/日（62.9%）
+> - crypto.news / TokenPost / CoinGecko / ainvest（**10/9**）：BTC ~$82,365–82,542（24h 成交量 ~$40.4B / 市值 $1.65T / 较 ATH $126,272 回撤 ~34.7%）；Trump 表态后从 $80,300 日低回升至 $82,000+；ETF 单日流出 $487M / 美国政府 $1.5B BTC 转移 Coinbase Prime
+> - premiumtimesng.com（**10/9**）：「挪威诺贝尔委员会周五宣布将诺贝尔和平奖授予委内瑞拉反对派领袖 María Machado」——需下一轮官网直抓核验（与 Polymarket ERRs 19.1% 领先存在矛盾）
+> - Polymarket（**10/9**）：Sudan's ERRs 19.1% / Save the Children 7.5% / CPJ ~3% / Trump <1%
+> - 阿纳多卢通讯社 / CNBC / newsdive / AP / India Today（**10/9**）：Trump 帖文「11/3 前不打伊朗 + 封锁保持 + 2,200 万桶经霍尔木兹（0 伊朗桶）」；Brent -1.3% 至 $102.91 / WTI -1.2% 至 $90.40；Zelenskyy 78 人死 / 215 伤 + Starlink 呼吁；UK East Jerusalem 领事馆更名「UK Mission, Jerusalem」；Hegseth 宣布 Nidal Hasan 12/3 公开枪决；J-1 九校 + 微软 H-1B 绿卡暂停 + Trump 授勋章 Nadella
+> - 247wallst / AOL Finance / Globe and Mail（**10/9**）：达美 Q3 前瞻共识 EPS $1.88 < 指引下限 $2.00；财报日历：10/12 JPM / 10/15 TSM / 10/20 NFLX / 10/28 GOOGL + META
